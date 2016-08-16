@@ -1,0 +1,10 @@
+drwxr-xr-x    2 coursest   coursest         4096 Jun  1 09:54 .
+drwxr-xr-x   10 coursest   coursest         4096 Jun  1 09:54 ..
+-rw-r--r--    1 coursest   coursest         4846 Jun  1 09:54 actions.php
+-rw-r--r--    1 coursest   coursest        19813 Jun  1 09:54 affiliates.php
+-rw-r--r--    1 coursest   coursest         3083 Jun  1 09:54 delete.php
+-rw-r--r--    1 coursest   coursest         6399 Jun  1 09:54 edit.php
+-rw-r--r--    1 coursest   coursest         4069 Jun  1 09:54 new.php
+-rw-r--r--    1 coursest   coursest         3141 Jun  1 09:54 review.php
+-rw-r--r--    1 coursest   coursest         1111 Jun  1 09:54 screen-options.php
+-rw-r--r--    1 coursest   coursest         2112 Jun  1 09:54 view.php

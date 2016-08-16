@@ -1,0 +1,9 @@
+drwxr-xr-x    3 coursest   coursest         4096 Jan 19 15:48 .
+drwxr-xr-x   20 coursest   coursest         4096 Jan 19 15:48 ..
+-rw-r--r--    1 coursest   coursest          368 Jan 19 15:48 active.php
+-rw-r--r--    1 coursest   coursest        22046 Jan 19 15:48 class-itsec-hide-backend-admin.php
+-rw-r--r--    1 coursest   coursest         9606 Jan 19 15:48 class-itsec-hide-backend.php
+-rw-r--r--    1 coursest   coursest           33 Jan 19 15:48 index.php
+-rw-r--r--    1 coursest   coursest          260 Jan 19 15:48 init.php
+drwxr-xr-x    2 coursest   coursest         4096 Jan 19 15:48 js
+-rw-r--r--    1 coursest   coursest         4465 Jan 19 15:48 setup.php

@@ -1,0 +1,11 @@
+drwxr-xr-x    4 coursest   coursest         4096 Nov 19  2015 .
+drwxr-xr-x   12 coursest   coursest         4096 Nov 19  2015 ..
+-rw-r--r--    1 coursest   coursest        13517 Nov 19  2015 Azure.php
+-rw-r--r--    1 coursest   coursest        16822 Nov 19  2015 Base.php
+-rw-r--r--    1 coursest   coursest        11124 Nov 19  2015 Ftp.php
+drwxr-xr-x    2 coursest   coursest         4096 Nov 19  2015 Mirror
+-rw-r--r--    1 coursest   coursest         2021 Nov 19  2015 Mirror.php
+-rw-r--r--    1 coursest   coursest         9968 Nov 19  2015 Rscf.php
+drwxr-xr-x    3 coursest   coursest         4096 Nov 19  2015 S3
+-rw-r--r--    1 coursest   coursest        12425 Nov 19  2015 S3.php
+-rw-r--r--    1 coursest   coursest            0 Nov 19  2015 index.html

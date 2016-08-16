@@ -1,0 +1,11 @@
+drwxr-xr-x    7 coursest   coursest         4096 Feb  2 09:40 .
+drwxr-xr-x   30 coursest   coursest         4096 Jun  1 17:31 ..
+drwxr-xr-x    5 coursest   coursest         4096 Feb  2 09:40 assets
+-rw-r--r--    1 coursest   coursest        19368 Feb  2 09:40 changelog.txt
+drwxr-xr-x    2 coursest   coursest         4096 Feb  2 09:40 classes
+drwxr-xr-x    2 coursest   coursest         4096 Feb  2 09:40 languages
+-rw-r--r--    1 coursest   coursest         4874 Feb  2 09:40 readme.txt
+-rw-r--r--    1 coursest   coursest          834 Feb  2 09:40 sample.csv
+drwxr-xr-x    2 coursest   coursest         4096 Feb  2 09:40 templates
+drwxr-xr-x    2 coursest   coursest         4096 Feb  2 09:40 woo-includes
+-rw-r--r--    1 coursest   coursest       245904 Feb  2 15:15 woocommerce-smart-coupons.php

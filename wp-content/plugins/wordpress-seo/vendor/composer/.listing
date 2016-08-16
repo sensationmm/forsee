@@ -1,0 +1,11 @@
+drwxr-xr-x    2 coursest   coursest         4096 Jan 13 19:25 .
+drwxr-xr-x    5 coursest   coursest         4096 Jan 13 19:25 ..
+-rw-r--r--    1 coursest   coursest        12466 Jan 13 19:25 ClassLoader.php
+-rw-r--r--    1 coursest   coursest         6245 Jan 13 19:25 ClassLoader52.php
+-rw-r--r--    1 coursest   coursest         1075 Jan 13 19:25 LICENSE
+-rw-r--r--    1 coursest   coursest        16843 Jan 13 19:25 autoload_classmap.php
+-rw-r--r--    1 coursest   coursest          305 Jan 13 19:25 autoload_namespaces.php
+-rw-r--r--    1 coursest   coursest          143 Jan 13 19:25 autoload_psr4.php
+-rw-r--r--    1 coursest   coursest         1310 Jan 13 19:25 autoload_real.php
+-rw-r--r--    1 coursest   coursest         1180 Jan 13 19:25 autoload_real_52.php
+-rw-r--r--    1 coursest   coursest         7929 Jan 13 19:25 installed.json

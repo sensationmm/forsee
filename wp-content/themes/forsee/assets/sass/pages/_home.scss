@@ -1,0 +1,44 @@
+body#home {
+	
+	header .body {
+		padding-bottom: 0px;
+	}
+
+	.banner {
+		background-image: url(../images/background-cityscape.jpg);
+		overflow: hidden;
+		padding: 0;
+		height: auto;
+
+		.body {
+			height: 0;
+			padding-bottom: 43.5%;
+			background: 18% bottom no-repeat;
+			background-size: contain;
+		}
+
+		.intro {
+			@include span(isolate 5.5 last);
+			color: #ffffff;
+			position: absolute;
+			bottom: 10%;
+
+			p {
+				display: inline-block;
+				@include fontweight();
+				@include fontsize(22);
+				margin-bottom: 7%;
+			}
+		}
+	}
+
+	@include breakpoint(1171px) {
+		.banner {
+			.body {
+				height: 510px;
+				padding-bottom: 0px;
+			}
+		}
+	}
+
+}

@@ -1,0 +1,121 @@
+body#hubspot, body#free-trial, body#single {
+
+	.body {
+		&.outer { display: block; clear: both;  }
+
+		article.col-half {
+			@include span(6);
+
+			img {
+				max-width: 100%;
+				height: auto;
+			}
+		}
+
+		section.col-half {
+			@include span(6 last);
+		}
+
+		section.col-half, section.col-right {
+
+			img {
+				max-width: 100%;
+				height: auto;
+			}
+
+			.error {
+				padding: 1% 0%;
+				color: $red;
+				font-weight: bold;
+			}
+
+			.hs_firstname, .hs_lastname {
+				width: 100%;
+
+				.input input {
+					width: 95%;
+				}
+			}
+
+			.hbspt-form {
+				input[type="text"], input[type="email"] {
+					border: 1px solid $blue;
+					box-shadow: none !important;
+					@include fontsize(20);
+				}
+
+				input[type="submit"] {
+					display: block;
+					font-family: 'Montserrat', sans-serif;
+					color: #ffffff;
+					@include fontsize(20);
+					text-transform: uppercase;
+					padding: 1.3% 7.5%;
+					border-radius: 5px;
+					text-decoration: none;
+					border: 1px solid $blue;
+					background: $blue;
+					box-shadow: none;
+					text-shadow: none;
+					@include fontweight();
+
+
+
+					&:hover {
+						background: $green;
+					}
+				}
+
+				.hs-error-msgs {
+					label { color: $red; }
+				}
+
+				.submitted-message {
+					background: $bg-blue-1;
+					color: #ffffff;
+					text-align: center;
+					padding: 5%; 
+				}
+			}
+		}
+
+		.woocommerce-error {
+			margin-bottom: 15px;
+		}
+
+		#customer_login {
+			.col-1 {
+				display: none;
+			}
+			.col-2 {
+				width: 100%;
+				float: none;
+
+				h2 {
+					display: none;
+				}
+
+				form.register {
+					border: 0px;
+					padding: 0px;
+					margin: 0px 0px 8% 0px;
+
+					input.input-text {
+						border: 1px solid $blue;
+						padding: 1%;
+						@include fontsize(16);
+						color: $text;
+						border-radius: 5px;
+					}
+
+					p.form-row-first, p.form-row-last {
+						width: 100%;
+						float: none;
+					}
+				}
+			}
+		}
+
+	}
+
+}

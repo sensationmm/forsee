@@ -1,0 +1,71 @@
+@mixin background($image, $positionY:top, $positionX:left, $size:contain, $repeat:no-repeat)
+{
+	background-image: url($image);
+	background-size: $size;
+	background-position: $positionX $positionY;
+	background-repeat: $repeat;
+}
+
+@mixin bg-grad($color1, $color2) {
+	background: -webkit-linear-gradient(left, $color1, $color2); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(right, $color1, $color2); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(right, $color1, $color2); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(to right, $color1, $color2); /* Standard syntax */
+}
+
+
+@mixin fontsize($value, $lineHeight: 1.4)
+{
+	font-size: $value + 0px;
+	@include breakpoint(0 $mobile) {
+		font-size: $value / 4 + 0vw;
+	}
+	@include breakpoint(($mobile+1) ($max+0px)) {
+		font-size: $value / 12 + 0vw; 
+	}
+	line-height: $lineHeight;
+	-webkit-text-size-adjust: 100%
+} 
+
+
+@mixin fontweight()
+{
+	font-weight: 200;
+	@include breakpoint(($mobile+1) ($mobile-landscape)) {
+		font-weight: 300;
+	}
+}
+
+@mixin navlink() {
+	a {
+		text-decoration: none;
+		outline: none;
+
+		&:hover {
+			text-decoration: underline;
+		}
+	}
+}
+
+@mixin webfonts($webfonts, $weight: normal, $style: normal) {
+	@each $webfont in $webfonts {
+		@font-face {
+			font-family: $webfont;
+			src: url('../fonts/#{$webfont}.eot');
+			src: url('../fonts/#{$webfont}.eot?#iefix') format('embedded-opentype'),
+			url('../fonts/#{$webfont}.woff') format('woff'),
+			url('../fonts/#{$webfont}.ttf') format('truetype'),
+			url('../fonts/#{$webfont}.svg#ywftsvg') format('svg');
+			font-weight: $weight;
+			font-style: $style;
+		}
+		%#{$webfont}-webfont {
+			font-family: $webfont, $base-font-family !important;
+		}
+	}
+}
+
+@mixin calc($property, $expression) { 
+  #{$property}: -webkit-calc(#{$expression}); 
+  #{$property}: calc(#{$expression}); 
+} 

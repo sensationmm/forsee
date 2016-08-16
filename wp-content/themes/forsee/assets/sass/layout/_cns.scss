@@ -1,0 +1,458 @@
+body {
+
+	.cns-strap {
+		@include span(full); 
+		padding: 1% 0% 0 0%;
+		color: #ffffff;
+		background: $blue;
+
+		.body {
+			padding: 0 2%;
+		}
+
+		h1 {
+			margin-bottom: 7px;
+		}
+
+		ul.cns-tabs {
+			list-style: none;
+			padding: 0px;
+			margin: 1.5% 0px 0px 0px;
+
+			li {
+				display: inline;
+				margin-right: 5px;
+
+				a {
+					display: inline-block;
+					border: solid #ffffff;
+					border-width: 1px 1px 0px 1px;
+					border-radius: 5px 5px 0px 0px;
+					text-align: center;
+					min-width: 150px;
+					padding: 0.5% 1.5%;
+					text-decoration: none;
+
+					&.active, &:hover {
+						background: #ffffff;
+						color: $blue;
+					}
+				}
+			}
+		}
+
+		form.cns-tabs {
+			display: none;
+		}
+
+		.cns-options {
+			width: 40%;
+			position: absolute;
+			right: 20px;
+			bottom: 7%;
+			list-style: none;
+			padding: 0px;
+			@include fontsize(14);
+
+				.cns-option-exit {
+					float: right;
+					margin-left: 3%;
+					width: 30%;
+
+						a {
+							display: block;
+							text-decoration: none;
+							border: 1px solid #ffffff;
+							border-radius: 5px;
+							padding: 3% 40%;
+
+							&:hover {
+								background: #ffffff;
+								color: $blue;
+							}
+						}
+					}
+
+				.cns-option-reports {	
+					float: right;
+					margin-left: 3%;	
+					width: 33%;
+					padding-top: 1%;
+
+						a {
+							display: block;
+							background: url(../images/icon-back.gif) top left no-repeat;
+							background-size: contain;
+							padding: 0% 0 0% 20%;
+						}
+					}
+
+				.cns-option-settings {
+					float: right;
+					margin-left: 3%;
+					width: 25%;
+					padding-top: 0.8%;
+
+					a {
+						display: block;
+						padding: 1% 0 1% 30%;
+						background: url(../images/icon-settings.gif) top left no-repeat;
+						background-size: contain;
+					}
+				}
+		}
+
+	}
+
+	.mobile-video {
+		display: none;
+	}
+
+	.career-list {
+		@include span(6.5);
+		margin-bottom: 8%;
+
+		.career-list-scroll {
+			@include span(full);
+			height: 0;
+			overflow: scroll;
+			padding: 0 7% 150% 0;
+			margin: 2% 0;
+
+			&.autoheight {
+				height: auto;
+				padding-bottom: 10%;
+			}
+
+			ul {
+				list-style: none;
+				padding: 0px;
+				margin: 0px;
+
+				li {
+					clear: both;
+					position: relative;
+					padding-right: 12%;
+
+					.list-count {
+						width: 22%;
+					}
+
+					span.fav {
+						margin: 0 10px;
+					}
+
+					.fav {
+						top: 2px;
+						position: relative;
+						display: inline-block;
+						width: 4.1%;
+						height: 0;
+						padding-bottom: 3.5%;
+						cursor: pointer;
+						background-size: contain;
+						background-repeat: no-repeat;
+
+						&.favyes { background-image: url(../images/heart-love.png); } 
+						&.favno { background-image: url(../images/heart-no-love.png); } 
+					}
+
+					div {
+						display: inline-block;
+						width: 65%;
+						vertical-align: top;
+					}
+				}
+			}
+
+			a.course_id {
+				position: absolute;
+				top: 0;
+				right: 0;
+				color: $blue
+			}
+		}
+
+		.back-to-list {
+			margin-top: 5%;
+			text-align: center;
+		}
+	}
+
+	.back-to-top {
+		display: none;
+	}
+
+	a.back-to-list {
+		display: none;
+		margin-bottom: 1%;
+		clear: both;
+	}
+
+	.career-details {
+		@include span(5.5 last);
+		padding: 1% 2%;
+		background: $bg-greylight-3;
+		margin-bottom: 8%;
+
+		.career-details-loading {
+			padding: 10% 0;
+			text-align: center;
+			@include fontsize(40);
+		}
+
+		h3 {
+			@include fontsize(40, 1);
+			@include fontweight();
+		}
+
+		h4 {
+			color: $blue;
+			font-weight: normal;
+			margin-bottom: 0px;
+		}
+
+		.contact-overlay {
+			display: none;
+			position: absolute;
+			background: #fff;
+			z-index: 2;
+			width: 100%;
+			left: 0px;
+			padding: 4%;
+			border: 1px solid $blue;
+
+			h4 {
+				@include fontsize(30, 1);
+				@include fontweight();
+				color: $text;
+				margin-bottom: 2%;
+			}
+
+			form {
+				margin-bottom: 0px;
+
+				.actions {
+					padding-top: 0px;
+					margin-top: 0px;
+					margin-bottom: 0px;
+				}
+			}
+
+			label {
+				b {
+					color: $blue;
+				}
+			}
+
+			.contact-broker-spiel {
+				font-style: italic;
+				@include fontsize(14);
+			}
+
+			.contact-overlay-close {
+				position: absolute;
+				top: -12px;
+				right: -12px;
+				width: 25px;
+				height: 25px;
+				background: url(../images/modal-close.png);
+				background-size: contain;
+				cursor: pointer;
+				z-index: 2;
+			}
+
+			.submitted-message {
+				border-top: 1px solid $blue;
+				border-bottom: 1px solid $blue;
+				padding: 2% 0;
+				text-align: center;
+				margin: 4% 0;
+			}
+		}
+
+		.cea {
+			padding-top: 5%;
+			border-top: 1px solid $blue;
+			margin-top: 5%;
+		}
+
+		.button {
+			a {
+				display: inline-block;
+				border: solid $blue 1px;
+				border-radius: 5px;
+				text-align: center;
+				padding: 2% 8%;
+				text-decoration: none;
+				background: $blue;
+				color: #ffffff;
+				margin-bottom: 2%;
+				cursor: pointer;
+
+				&.active, &:hover {
+					background: none;
+					color: $blue;
+				}
+			}
+		}
+
+		input.hs-button {
+			border: 1px solid $blue!important;
+			outline: 0px !important;
+			box-shadow: none !important;
+			border-radius: 5px;
+			background: $blue; 
+			text-shadow: none;
+			@include fontsize(16, 1);
+			padding: 2% 8%;
+
+			&:hover {
+				background: none;
+				color: $blue;
+			}
+		}
+	}
+
+	form.filter-careers {
+		@include span(4.5 of 7);
+
+		.filter-holder {
+			border: 1px solid $blue;
+			border-radius: 3px;
+			overflow: hidden;
+			background: url(../images/background-select.gif) top right no-repeat;
+			background-size: contain;
+
+			select {
+				width: 120%;
+				@include fontsize(18);
+				color: $text;
+				border: 0px;
+				background: none;
+				padding: 1% 2%;
+			}
+		}
+	}
+
+	form.search-careers {
+		@include span(full);
+		border: 1px solid $blue !important;
+		border-radius: 3px;
+		margin-bottom: 2%;
+
+		input[type="text"] {
+			@include span(5 of 7);
+			@include fontsize(18);
+			color: $text;
+			background: none;
+			border: 0px !important;
+			padding: 1% 2% !important;
+		}
+
+		input[type="submit"] {
+			@include span(2 of 7 last);
+			background: $blue;
+			color: #ffffff;
+			@include fontsize(18, 1.6);
+			padding: 0.8% 2%;
+			cursor: pointer;
+
+			&:hover {
+				background: $bg-greylight-1;
+			}
+		}
+	}
+
+	form.view-shortlist {
+		@include span(2.5 of 7 last);
+
+		input[type="submit"] {
+			@include span(full);
+			background: #ffffff url(../images/heart-love.png) 4% center no-repeat;
+			border: 1px solid $blue;
+			padding: 2% 2% 2% 16%;
+			@include fontsize(18);
+			color: $text;
+			text-align: left;
+			border-radius: 3px;
+			cursor: pointer;
+
+			&:hover {
+				color: #ffffff;
+				background: $blue url(../images/heart-no-love.png) 4% center no-repeat;
+			}
+		}
+	}
+
+	.course-contact {
+		form {
+			.optin {
+				@include fontsize(14);
+				margin-bottom: 20px;
+
+				b {
+					font-weight: bold;
+					color: $blue;
+				}
+			}
+				
+			span.required {
+				color: red;
+			}
+
+			label {
+				font-weight: bold;
+				color: #414141;
+				@include fontsize(16);
+			}
+
+			.course-input {
+				label, input { display: block; }
+				margin-bottom: 20px;
+
+				input.hs-input {
+					width: 100%;
+					border-radius: 5px;
+				}
+
+				input.hs-button {
+					color: #ffffff;
+					font-weight: bold;
+					cursor: pointer;
+
+					&:hover {
+						color: $blue;
+					}
+				}
+			}
+		}
+	}
+
+	.form-errors {
+		@include fontsize(14); 
+		color: red;
+		border: 1px solid red;
+		text-align: center;
+		padding: 5px 10px;
+		margin-bottom: 20px;
+		display: none; 
+	}
+
+	.course-contact-overlay { 
+		display: none;
+		position: absolute;
+		top: 0px;
+		left: 0px;
+		width: 100%;
+		height: 100%;
+		background: rgba(215,215,215,0.7);
+		text-align: center;
+
+		img {
+			position: relative;
+			top: 50%;
+			transform: translateY(-50%);
+		}
+	}
+}

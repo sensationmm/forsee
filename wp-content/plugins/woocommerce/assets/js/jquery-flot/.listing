@@ -1,0 +1,12 @@
+drwxr-xr-x    2 coursest   coursest         4096 Feb  2 08:37 .
+drwxr-xr-x   19 coursest   coursest         4096 Feb  2 08:37 ..
+-rw-r--r--    1 coursest   coursest       119052 Feb  2 08:37 jquery.flot.js
+-rw-r--r--    1 coursest   coursest        35864 Feb  2 08:37 jquery.flot.min.js
+-rw-r--r--    1 coursest   coursest        23610 Feb  2 08:37 jquery.flot.pie.js
+-rw-r--r--    1 coursest   coursest         8077 Feb  2 08:37 jquery.flot.pie.min.js
+-rw-r--r--    1 coursest   coursest         2504 Feb  2 08:37 jquery.flot.resize.js
+-rw-r--r--    1 coursest   coursest         1199 Feb  2 08:37 jquery.flot.resize.min.js
+-rw-r--r--    1 coursest   coursest         6916 Feb  2 08:37 jquery.flot.stack.js
+-rw-r--r--    1 coursest   coursest         1315 Feb  2 08:37 jquery.flot.stack.min.js
+-rw-r--r--    1 coursest   coursest        11729 Feb  2 08:37 jquery.flot.time.js
+-rw-r--r--    1 coursest   coursest         4637 Feb  2 08:37 jquery.flot.time.min.js

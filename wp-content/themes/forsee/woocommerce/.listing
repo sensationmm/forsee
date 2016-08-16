@@ -1,0 +1,10 @@
+drwxr-xr-x    8 coursest   coursest         4096 Jan 21 13:19 .
+drwxr-xr-x    4 coursest   coursest         4096 Jun 17 13:55 ..
+-rw-r--r--    1 coursest   coursest         3085 Jan 14 13:28 archive-product.php
+drwxr-xr-x    2 coursest   coursest         4096 Jan 21 13:19 cart
+drwxr-xr-x    2 coursest   coursest         4096 Jan 21 13:19 checkout
+drwxr-xr-x    2 coursest   coursest         4096 Feb 12 09:52 emails
+drwxr-xr-x    2 coursest   coursest         4096 Jan  6 09:43 global
+drwxr-xr-x    2 coursest   coursest         4096 Jan 21 13:19 myaccount
+-rw-r--r--    1 coursest   coursest          991 Jan 14 13:28 single-product.php
+drwxr-xr-x    3 coursest   coursest         4096 Jan 14 13:28 templates

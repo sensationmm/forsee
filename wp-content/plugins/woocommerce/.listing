@@ -1,0 +1,11 @@
+drwxr-xr-x    7 coursest   coursest         4096 Feb  2 08:37 .
+drwxr-xr-x   30 coursest   coursest         4096 Jun  1 17:31 ..
+drwxr-xr-x    6 coursest   coursest         4096 Feb  2 08:37 assets
+drwxr-xr-x    2 coursest   coursest         4096 Feb  2 08:37 dummy-data
+drwxr-xr-x    4 coursest   coursest         4096 Feb  2 08:37 i18n
+drwxr-xr-x   14 coursest   coursest         4096 Feb  2 08:37 includes
+-rw-r--r--    1 coursest   coursest        36314 Feb  2 08:37 license.txt
+-rw-r--r--    1 coursest   coursest        17944 Feb  2 08:37 readme.txt
+drwxr-xr-x   12 coursest   coursest         4096 Feb  2 08:37 templates
+-rw-r--r--    1 coursest   coursest         2540 Feb  2 08:37 uninstall.php
+-rw-r--r--    1 coursest   coursest        14610 Feb  2 08:37 woocommerce.php

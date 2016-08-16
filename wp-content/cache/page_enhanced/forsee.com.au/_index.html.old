@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>Forsee Career Technology</title>
+<base href="/wp-content/themes/forsee/" />
+<link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.ico" />
+<link rel="stylesheet" href="assets/css/holding.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.1.2/css/swiper.min.css">
+<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+<style type="text/css">
+body { 
+	padding: 0px; 
+	margin: 0px;
+	font-family: 'Source Sans Pro', sans-serif; 
+	font-weight: 300; 
+	color:#ffffff; 
+}
+.banner {
+	width: 100%;
+	background-image: url(assets/images/background-cityscape.jpg);
+	background-size: cover;
+}
+.inner {
+	width: 50%;
+	text-align: center;
+	margin: 0 auto;
+	padding-top: 15%;
+	padding-bottom: 15%;
+}
+img {
+	width: 80%;
+	max-width: 340px;
+}
+</style>
+</head>
+<meta name='robots' content='noindex,follow' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/forsee.com.au\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<script type="text/javascript" src="http://forsee.com.au/wp-content/cache/minify/000000/yygpKbDS10_MSqzQS8_PT89JTSzILNZLzs8Fi-nnZCYV62cVlqYWVeob6hka6BlBeXq5mXl6WcUA.js"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://forsee.com.au/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 4.3.1" />
+<link rel='canonical' href='http://forsee.com.au/' />
+<link rel='shortlink' href='http://forsee.com.au/' />
+<body>
+
+
+	<div class="banner">
+		<div class="inner">
+			<img src="assets/images/forsee-career-technology.png" alt="Forsee Career Technology" />
+			<h1><h1>COMING SOON</h1>
+</h1>
+		</div>
+	</div>
+
+
+    
+<!-- Start of Async HubSpot Analytics Code for WordPress v1.0.0 -->
+<script type="text/javascript">
+var _hsq = _hsq || [];
+_hsq.push(["setContentType", "standard-page"]);
+(function(d,s,i,r) {
+  if (d.getElementById(i)){return;}
+  var n = d.createElement(s),e = document.getElementsByTagName(s)[0];
+  n.id=i;n.src = '//js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'/493485.js';
+  e.parentNode.insertBefore(n, e);
+})(document, "script", "hs-analytics", 300000);
+</script>
+<!-- End of Async HubSpot Analytics Code -->
+</body>
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Minified using disk
+Page Caching using disk: enhanced
+Database Caching 1/15 queries in 0.004 seconds using disk
+Object Caching 297/369 objects using disk
+
+ Served from: forsee.com.au @ 2015-11-04 13:05:36 by W3 Total Cache -->

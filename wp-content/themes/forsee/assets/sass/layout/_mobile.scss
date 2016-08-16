@@ -1,0 +1,664 @@
+
+	
+	@include breakpoint(0 $mobile) {
+
+		@include layout(6);
+
+		body#home {
+
+			.banner {
+				.body {
+					height: auto;
+					padding-bottom: 0;
+					background-image: none !important;
+					.intro {
+						position: relative;
+						@include span(full); 
+						padding: 10%;
+						text-align: center;
+						margin-top: 0px;
+
+						br { display: none; }
+
+						.button.highlight {
+							margin-top: 5%;
+						}
+					}
+				}
+			}
+
+			article.section {
+				.body {
+					.section-text, .section-full { 
+						padding: 10%;
+					}
+
+					.section-full.has-sections, .section-sections {
+						padding: 10% 5% 0% 5%;
+					}
+				}
+			}
+
+			.news {
+				img { display: none; }
+				.news-excerpt {
+					height: auto;
+					padding-bottom: 2%;
+				}
+				padding-bottom: 5%;
+				border-bottom: 1px solid $bg-greylight-1;
+				margin-bottom: 5%;
+			} 
+		}
+
+		body {
+			header {
+				.body {
+					padding: 3% 5%;
+					div.logo {
+						@include span(3);
+					}
+
+					.navi {
+						@include span(2.7 last);
+						margin-left: auto;
+
+						nav {
+							@include span(3 last);
+						}
+
+						.login {
+							position: absolute;
+							left: 0px;
+							bottom: 5%;
+							a { padding-left: 0px; text-align: left; }
+						}
+
+						.login.logged-in {
+							position: relative;
+							@include span(full);
+							margin-bottom: 5%;
+
+							a {
+								padding: 5% 0% 5% 10%;
+								text-align: right;
+							}
+						}
+
+						.free-trial {
+							@include span(full);
+							margin-bottom: 5%;
+
+							a {
+								padding: 5% 10% 5% 10%;
+							}
+						}
+					}
+				}
+			} 
+
+			.banner {
+				padding: 4% !important;
+				height: auto !important;
+				p { 
+					margin: 0 5% 0 0 !important; 
+
+					&.strap {
+						@include span(full);
+					}
+				}
+			}
+
+			.cns-strap {
+				padding-bottom: 2%;
+
+				ul.cns-tabs {
+					display: none;
+				}
+
+				form.cns-tabs {
+					display: block;
+					@include span(full);
+					padding: 2% 0;
+
+					select {
+						@include span(full);
+						@include fontsize(18);
+					}
+				}
+
+				.cns-options {
+					position: relative;
+					top: auto;
+					right: 0px;
+					width: 100%;
+					clear: both;
+
+					.cns-option-reports {
+						width: 37%;
+						margin-left: 2%;
+						a { padding-left: 25%; }
+					}
+				}
+			}
+
+			article.section {
+				.body {
+					background-image: none !important;
+
+					.section-text, .section-full { 
+						@include span(full); 
+						padding: 10% 5%;
+						text-align: center;
+					}
+
+					.section-video {
+						display: none;
+						@include span(full); 
+
+						&.mobile-video {
+							display: block;
+							overflow: hidden;
+						}
+					}
+				}
+			}
+
+			.col3 {
+				@include span(full);
+			}
+
+			footer .body {
+				padding: 0 5%;
+			}
+		}
+
+		body#page {
+
+			.body.outer {
+				.col-left {
+					@include span(full);
+					padding: 0 5%;
+				}
+
+				.col-right {
+					@include span(full);
+
+					.box-text {
+						padding: 5%;
+					}
+				}
+			}
+		}
+
+		body#blog, body#single {
+			.body {
+				.col-left, .col-right {
+					@include span(full);
+
+					article.blog {
+						.blog-content { @include span(full); }
+
+						.blog-image { display: none; }
+					}
+				}
+
+				.col-right { float: left; }
+
+				&.outer { padding: 4% 20px; }
+			}
+		}
+
+		body#single {
+			.col-right { display: none; }
+		}
+
+		body#hubspot, body#single {
+			.body {
+				article.col-half, section.col-half, section.col-half.col-half {
+					@include span(full);
+
+					.hbspt-form {
+						padding-top: 5%;
+						border-top: 1px solid $blue;
+						margin-top: 5%;
+					}
+				}
+			}
+		}
+
+		body#reports {
+			.body {
+				article.report {
+					.report-image {
+						@include span(2);
+					}
+					.report-info {
+						@include span(4 last);
+					}
+				}
+			}
+		}
+
+		body#taxonomy-courses {
+			.courses {
+				.course {
+					@include span(full);
+					height: auto;
+					padding: 2%;
+				}
+			}
+		}
+
+		body#single-course {
+			article.course-details, section.course-info {
+				@include span(full);
+				margin-bottom: 2%;
+
+				a.button {
+					display: block;
+					padding: 2% 4%;
+					margin-top: 10%;
+				}
+
+				div.course-icons {
+					.course-icons-header {
+						margin-bottom: 5%;
+					}
+
+					ul {
+						li {
+							@include span(1.5);
+
+							background-size: contain;
+							&:nth-child(4n) { @include last; }
+						}
+					}
+				}
+
+				dl {
+					dt {
+						@include span(3);
+						margin-bottom: 5%;
+					}
+
+					dd {
+						@include span(3 last);
+					}
+				}
+
+				a.back {
+					display: block;
+					clear: both;
+				}
+			}
+		}
+
+		body#reports {
+			.body {
+				article.report {
+					border-bottom: 1px solid $bg-greylight-2;
+					padding-bottom: 4%;
+
+					&:last-of-type {
+						border-bottom: 0px;
+					}
+
+					.report-image {
+						display: none;
+					}
+
+					.report-info {
+						@include span(full);
+
+						a.button {
+							display: block;
+						}
+					}
+				}
+			}
+		}
+
+		body#single, body#cns-welcome {
+
+			.body {
+
+				&.outer { padding: 20px 20px; }
+
+				article.col-main {
+					@include span(full);
+				}
+				section.col-main {
+					@include span(full);
+				}
+
+				.video-holder {
+					display: none;
+					@include span(full); 
+
+					&.mobile-video {
+						display: block;
+						overflow: hidden;
+					}
+				}
+			}
+		}
+
+		body#free-trial {
+
+			.body {
+				&.outer {
+					padding: 4% 20px;
+				}
+
+				article.col-half {
+					@include span(full);
+				}
+				section.col-half {
+					@include span(full);
+				}
+			}
+		}
+
+		body#cns-enjoyment {
+			form.filter-careers, form.view-shortlist {
+				@include span(full);
+				margin-bottom: 2%;
+			}
+
+			.career-list {
+				@include span(full);
+
+				.career-list-scroll {
+					height: auto;
+					padding: 0px;
+
+					ul {
+						li {
+							div { width: 100%; color: $border; }
+
+							.purchase-to-unlock {
+								width: auto;
+							}
+
+							.list-count { width: auto; color: $text; }
+
+							.fav {
+								width: 6.8%;
+								padding-bottom: 6%;
+
+								&.favhide {
+									display: none;
+								}
+							}
+						}
+					}
+
+					a.button {
+						@include span(full);
+						text-align: center;
+					}
+
+					a.course_id {
+						position: relative;
+					}
+				}
+			}
+
+			.career-details {
+				display: none;
+				@include span(full);
+				top: 0;
+				left: 0;
+			}
+
+			.back-to-top {
+				position: fixed;
+				width: 15%;
+				text-align: center;
+				bottom: 10%;
+				right: 4%;
+				background: $blue;
+				padding: 2% 0;
+				color: #ffffff;
+				z-index: 10;
+				cursor: pointer;
+				@include fontsize(40, 1);
+			}
+		}
+
+		body#page, body#page-full {
+			#customer_login {
+				.col-1, .col-2 {
+					@include span(full);
+					padding: 0 20px;
+				}
+			}
+		}
+
+		body#pricing {
+			.body {
+				.col-left, .col-right {
+					@include span(full);
+
+					table.highlights {
+						td {
+							.highlight {
+								display: block;
+								@include fontsize(14);
+							}
+						}
+					}
+
+					table.pricing {
+						th {
+							@include fontsize(30);
+						}
+						tr.price td {
+							@include fontsize(40);
+						}
+					}
+
+					table.individual {
+						tr {
+							display: block;
+							border-bottom: 1px solid $bg-greylight-2;
+
+							th, td {
+								display: block;
+								border: 0px;
+								text-align: center;
+							}
+						}
+					}
+				}
+
+				.cart {
+					display: none;
+				}
+			}
+		}
+
+		body#woocommerce {
+			table.shop_table {
+				th, td {
+					@include fontsize(18);
+
+					&.product-price, &.product-remove {
+						display: none;
+					}
+				}
+			}
+
+			table.shop_table td input.input-text {
+				width: 3em;
+			}
+
+			table.shop_table td input#coupon_code.input-text{
+				@include span(full);
+				@include fontsize(14);
+			}
+
+			.coupon {
+				@include span(full);
+
+				input.button {
+					@include span(full);
+					@include fontsize(14);
+				}
+			}
+
+			input.button[name="update_cart"] {
+				@include span(full);
+			}
+
+
+			#customer_details, div.woocommerce-checkout-review-order, h3#order_review_heading {
+				@include span(full);
+			}
+
+			.woocommerce{
+
+				a.button {
+					&.button-float-right {
+						float: none;
+						top: 0px;
+						margin: 2% 0;
+					}
+				}
+			}
+
+			.woocommerce-checkout {
+				#payment {
+
+					ul.payment_methods {
+						li {
+							background-position: bottom left;
+							background-size: contain;
+							padding-bottom: 27%;
+
+							.payment_box {
+								@include span(full);
+							}
+						}
+					}
+				}
+			}
+		}
+
+		.woocommerce {
+			form.checkout_coupon {
+				.form-row-first, .form-row-last {
+					@include span(full);
+					.button {
+						@include span(full);
+					}
+				}
+			}
+		}
+
+		body {
+			.outer {
+				article {
+					ul {
+						li { background-size: 5%; padding-left: 7%; }
+					}
+				}
+			}
+		}
+	}
+
+
+	@include breakpoint(0 $max+40px) {
+		header {
+			padding-top: 1.5%;
+		}
+		div.body {
+			padding: 0 20px;
+
+			&.outer { padding: 4% 20px; }
+		}
+	} 
+
+
+	@include breakpoint(0 801px) {
+		.cns-options {
+			top: 7%;
+			bottom: auto;
+		}
+	} 
+
+
+
+	@include breakpoint(0 1024px) {
+		body#taxonomy-courses {
+			.courses {
+				.course {
+					&:hover {
+						background: none !important;
+						color: $text !important;
+
+						.course-title {
+							color: $blue;
+						}
+					}
+
+					.course-logo {
+						display: block !important;
+					}
+
+					.course-view {
+						display: block;
+						margin-top: 2%;
+
+						a {
+							background: $blue;
+							color: #ffffff;
+							border: 1px solid $blue;
+
+							&:hover {
+								background: #ffffff;
+								color: $blue;
+							}
+						}
+					}
+				}
+			}
+		}
+
+		.woocommerce {
+			table.shop_table_responsive {
+				tr:nth-child(2n) {
+					td {
+						color: $text;
+						background-color: $bg-greylight-2;
+					}
+				}
+			}
+		}
+	}
+
+
+
+	@include breakpoint($mobile+1 1024px) {
+		body#taxonomy-courses {
+			.courses {
+				.course {
+					@include span(4 of 12);
+					&:nth-child(3n) { @include last; }
+					padding-bottom: 23%;
+				}
+			}
+		}
+
+		body {
+			header {
+				.body {
+					div.logo {
+						@include span(1.5);
+					}
+				}
+			}
+		}
+	}
+

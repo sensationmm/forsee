@@ -1,0 +1,17 @@
+drwxr-xr-x    3 coursest   coursest         4096 Mar 30 15:39 .
+drwxr-xr-x    9 coursest   coursest         4096 Mar 30 15:39 ..
+-rw-r--r--    1 coursest   coursest         1249 Mar 30 15:39 admin-subtabs.js
+-rw-r--r--    1 coursest   coursest         2288 Mar 30 15:39 admin-tabcreator.js
+-rw-r--r--    1 coursest   coursest         3870 Mar 30 15:39 analytics-talk-content-tracking.js
+-rw-r--r--    1 coursest   coursest         8114 Mar 30 15:39 froogaloop.js
+-rw-r--r--    1 coursest   coursest          364 Mar 30 15:39 gtm4wp-contact-form-7-tracker.js
+-rw-r--r--    1 coursest   coursest          561 Mar 30 15:39 gtm4wp-download-tracker.js
+-rw-r--r--    1 coursest   coursest          318 Mar 30 15:39 gtm4wp-email-link-tracker.js
+-rw-r--r--    1 coursest   coursest         1546 Mar 30 15:39 gtm4wp-form-move-tracker.js
+-rw-r--r--    1 coursest   coursest          538 Mar 30 15:39 gtm4wp-outbound-click-tracker.js
+-rw-r--r--    1 coursest   coursest         2929 Mar 30 15:39 gtm4wp-social-tracker.js
+-rw-r--r--    1 coursest   coursest         4529 Mar 30 15:39 gtm4wp-soundcloud.js
+-rw-r--r--    1 coursest   coursest         3343 Mar 30 15:39 gtm4wp-vimeo.js
+-rw-r--r--    1 coursest   coursest          344 Mar 30 15:39 gtm4wp-woocommerce-tracker.js
+-rw-r--r--    1 coursest   coursest         7093 Mar 30 15:39 gtm4wp-youtube.js
+drwxr-xr-x    4 coursest   coursest         4096 Mar 30 15:39 whichbrowser

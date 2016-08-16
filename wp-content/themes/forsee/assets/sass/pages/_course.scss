@@ -1,0 +1,97 @@
+body#single-course {
+	
+	article.course-details {
+		@include span(10 last);
+		padding-bottom: 10%;
+
+		h2 {
+			margin-bottom: 5%;
+		}
+
+		div.course-icons {
+			border-top: 1px solid $border;
+			padding-top: 1%;
+			@include clearfix;
+
+			.course-icons-header {
+				color: $blue;
+				margin-bottom: 1.5%;
+			}
+
+			ul {
+				list-style: none;
+				padding: 0px;
+				margin: 0px;
+				
+				li {
+					float: left;
+					width: 66px;
+					height: 78px;
+					background-size: cover;
+					margin-right: 20px;
+					padding: 0px;
+
+					&#courseicon-online 				{ background-image: url(../images/courseicon-online-inactive.gif); }
+					&#courseicon-campus 				{ background-image: url(../images/courseicon-campus-inactive.gif); }
+					&#courseicon-blended 				{ background-image: url(../images/courseicon-blended-inactive.gif); }
+					&#courseicon-tutor 					{ background-image: url(../images/courseicon-tutor-inactive.gif); }
+					&#courseicon-governmentassisted 	{ background-image: url(../images/courseicon-governmentassisted-inactive.gif); }
+					&#courseicon-conferenceevents 		{ background-image: url(../images/courseicon-conferenceevents-inactive.gif); }
+					&#courseicon-paymentoptions 		{ background-image: url(../images/courseicon-paymentoptions-inactive.gif); }
+
+					&.active { background: none !important; }
+				}
+			}
+		}
+
+		a.button {
+			clear: both;
+			display: inline-block;
+			text-transform: uppercase;
+			border: 1px solid $blue;
+			border-radius: 5px;
+			padding: 0.5% 3%;
+			color: $blue;
+			text-decoration: none;
+			text-align: center;
+			margin-right: 4%;
+			font-family: 'Montserrat';
+			@include fontsize(16);
+			margin-top: 3%;
+			background: none;
+
+			&:hover {
+				color: $text;
+				border-color: $text;
+			}
+		}
+		
+	}
+
+	
+	section.course-info {
+		@include span(2);
+
+		dl {
+			margin-top: 0px;
+
+			dt {
+				color: $blue;
+				font-weight: bold;
+			}
+
+			dd {
+				padding: 0px;
+				margin: 0 0 5% 0;
+				text-indent: 0;
+			}
+		}
+
+		@include navlink();
+		
+		a.back {
+			@include fontsize(16);
+		}
+	}
+
+}

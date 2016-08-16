@@ -1,0 +1,13 @@
+drwxr-xr-x    2 coursest   coursest         4096 Feb  2 08:37 .
+drwxr-xr-x   14 coursest   coursest         4096 Feb  2 08:37 ..
+-rw-r--r--    1 coursest   coursest         1667 Feb  2 08:37 class-wc-widget-cart.php
+-rw-r--r--    1 coursest   coursest         3155 Feb  2 08:37 class-wc-widget-layered-nav-filters.php
+-rw-r--r--    1 coursest   coursest        11494 Feb  2 08:37 class-wc-widget-layered-nav.php
+-rw-r--r--    1 coursest   coursest         7103 Feb  2 08:37 class-wc-widget-price-filter.php
+-rw-r--r--    1 coursest   coursest         7379 Feb  2 08:37 class-wc-widget-product-categories.php
+-rw-r--r--    1 coursest   coursest         1050 Feb  2 08:37 class-wc-widget-product-search.php
+-rw-r--r--    1 coursest   coursest         1644 Feb  2 08:37 class-wc-widget-product-tag-cloud.php
+-rw-r--r--    1 coursest   coursest         5213 Feb  2 08:37 class-wc-widget-products.php
+-rw-r--r--    1 coursest   coursest         2413 Feb  2 08:37 class-wc-widget-recent-reviews.php
+-rw-r--r--    1 coursest   coursest         2401 Feb  2 08:37 class-wc-widget-recently-viewed.php
+-rw-r--r--    1 coursest   coursest         2321 Feb  2 08:37 class-wc-widget-top-rated-products.php

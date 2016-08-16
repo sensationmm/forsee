@@ -1,0 +1,4 @@
+drwxr-xr-x    2 coursest   coursest         4096 Dec 11  2015 .
+drwxr-xr-x   17 coursest   coursest         4096 Dec 11  2015 ..
+-rw-r--r--    1 coursest   coursest         4245 Dec 11  2015 plugin.js
+-rw-r--r--    1 coursest   coursest         3351 Dec 11  2015 plugin.min.js

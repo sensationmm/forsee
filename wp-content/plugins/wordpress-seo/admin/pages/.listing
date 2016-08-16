@@ -1,0 +1,10 @@
+drwxr-xr-x    2 coursest   coursest         4096 Jan 13 19:25 .
+drwxr-xr-x   10 coursest   coursest         4096 Jan 13 19:25 ..
+-rw-r--r--    1 coursest   coursest         1276 Jan 13 19:25 advanced.php
+-rw-r--r--    1 coursest   coursest        12783 Jan 13 19:25 dashboard.php
+-rw-r--r--    1 coursest   coursest         4162 Jan 13 19:25 licenses.php
+-rw-r--r--    1 coursest   coursest        13294 Jan 13 19:25 metas.php
+-rw-r--r--    1 coursest   coursest         5361 Jan 13 19:25 network.php
+-rw-r--r--    1 coursest   coursest         5719 Jan 13 19:25 social.php
+-rw-r--r--    1 coursest   coursest         2677 Jan 13 19:25 tools.php
+-rw-r--r--    1 coursest   coursest         5486 Jan 13 19:25 xml-sitemaps.php

@@ -1,0 +1,129 @@
+body#page, body#page-full {
+
+	.body {
+		&.outer { display: block; clear: both; padding: 4% 2%; }
+
+		.col-left {
+			@include span(8);
+
+			.faq {
+				.faq-question {
+					padding: 1% 2%;
+					border: 1px solid $blue;
+					border-radius: 5px;
+					margin-bottom: 2px;
+					cursor: pointer;
+				}
+				.faq-question:after {
+					content: "\25BE";
+					float: right;
+				}
+				.faq-answer {
+					padding: 1% 2% 0% 2%;
+					display: none;
+				}
+			}
+
+			.faq:hover {
+				.faq-question {
+					color: #ffffff;
+					background: $blue;
+				}
+			}
+		}
+		
+		.col-right {
+			@include span(3 last);
+
+			.box {
+				margin-bottom: 5%;
+
+				&.box-text {
+					padding: 10% 10% 5% 10%;
+					img { width: 100%; }
+				}
+
+				&.box-image {
+					img { display: block; width: 100%; }
+				}
+
+				&.blue { background: $bg-blue-1; color: #ffffff }
+				&.grey { background: $bg-greylight-1; }
+			}
+
+			.testimonials {
+				.testimonials-header {
+					font-family: 'Montserrat', sans-serif;
+					text-transform: uppercase;
+					margin-bottom: 5%;
+					font-weight: 400;
+					@include fontsize(25);
+				}
+
+				font-family: 'Source Sans Pro', sans-serif;
+				@include fontweight();
+				text-align: center;
+				padding: 10% 10%;
+				color: #ffffff;
+				background: $bg-blue-1;
+
+
+
+			    .testimonials-quote {
+			    	font-family: 'Source Sans Pro', sans-serif;
+			    	@include fontsize(18);
+			    	@include fontweight();
+			    }
+
+			    .testimonials-attr {
+			    	font-family: 'Montserrat', sans-serif;
+			    	@include fontsize(14);
+			    	text-transform: uppercase;
+			    	padding-top: 2%;
+			    }
+
+				p { margin-bottom: 0px; }
+			}
+		}
+
+	}
+
+	#customer_login {
+		.col-2 {
+			display: none;
+		}
+		.col-1 {
+			width: 40%;
+			margin: 0 auto;
+			float: none;
+
+			h2 {
+				display: none;
+			}
+
+			form.register {
+				border: 0px;
+				padding: 0px;
+				margin: 0px 0px 8% 0px;
+
+				input.input-text {
+					border: 1px solid $blue;
+					padding: 1%;
+					@include fontsize(16);
+					color: $text;
+					border-radius: 5px;
+				}
+
+				p.form-row-first, p.form-row-last {
+					width: 100%;
+					float: none;
+				}
+			}
+
+			form.login {
+				margin: 0px 0px 8% 0px;
+			}
+		}
+	}
+
+}

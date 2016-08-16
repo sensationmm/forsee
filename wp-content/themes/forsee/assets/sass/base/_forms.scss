@@ -1,0 +1,75 @@
+body {
+	input.button, a.checkout-button, .woocommerce input.button {
+		@include fontsize(16, 1);
+		display: inline-block;
+		text-transform: uppercase;
+		border: 1px solid #23BFD5;
+		font-family: "Montserrat",sans-serif;
+		border-radius: 5px;
+		padding: 2% 3%;
+		color: #ffffff !important;
+		text-decoration: none;
+		text-align: center;
+		background: $blue none repeat scroll 0% 0% !important;
+		border: 1px solid $blue;
+		font-weight: normal;
+		-webkit-appearance: none;
+
+		&:hover {
+			color: $blue !important;
+			background: none !important;
+		}
+	}
+}
+
+input[type="text"], input[type="tel"], input[type="email"], input[type="password"], textarea.input-text, textarea.gift_receiver_message {
+	border: 1px solid $bg-greylight-2 !important;
+	padding: 2% !important;
+	@include fontsize(20);
+	color: $text !important;
+}
+
+input#credit_called {
+	display: block;
+	clear: both;
+	border: 1px solid $bg-greylight-2 !important;
+	padding: 1% !important;
+	@include fontsize(20);
+	color: $text !important;
+}
+
+form.register {
+	input.button {
+		padding: 2% 10% !important;
+	}
+}
+
+.gift-certificate-receiver-detail-form {
+	.form_table {
+		padding: 0px;
+
+		.email_amount {
+			@include span(full);
+			margin-bottom: 2%;
+
+			.email {
+				@include span(full);
+			}
+		}
+
+		textarea.gift_receiver_message {
+			@include span(full);
+			float: none;
+			clear: both;
+
+			&:after {
+				content: " ";
+				clear: both;
+			}
+		}
+
+		.message_row {
+			clear: both;
+		}
+	}
+}

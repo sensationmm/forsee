@@ -1,0 +1,13 @@
+drwxr-xr-x    4 coursest   coursest         4096 Nov 19  2015 .
+drwxr-xr-x   30 coursest   coursest         4096 Jun  1 17:31 ..
+-rw-r--r--    1 coursest   coursest          126 Nov 19  2015 .gitattributes
+-rw-r--r--    1 coursest   coursest          626 Nov 19  2015 .gitignore
+-rw-r--r--    1 coursest   coursest          537 Nov 19  2015 .scrutinizer.yml
+-rw-r--r--    1 coursest   coursest          504 Nov 19  2015 .travis.yml
+-rw-r--r--    1 coursest   coursest         1973 Nov 19  2015 README.md
+-rw-r--r--    1 coursest   coursest        10124 Nov 19  2015 README.txt
+drwxr-xr-x    2 coursest   coursest         4096 Nov 19  2015 bin
+-rw-r--r--    1 coursest   coursest        17987 Nov 19  2015 gpl-2.0.txt
+-rw-r--r--    1 coursest   coursest          424 Nov 19  2015 phpunit.xml
+drwxr-xr-x    3 coursest   coursest         4096 Nov 19  2015 tests
+-rw-r--r--    1 coursest   coursest        17423 Nov 19  2015 use-google-libraries.php

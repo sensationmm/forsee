@@ -1,0 +1,1298 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Bulk Delete"
+msgstr ""
+
+#. Short description.
+msgid "Bulk delete posts, pages, users, attachments and meta fields based on different conditions and filters."
+msgstr ""
+
+#. Screenshot description.
+msgid "<p>The above screenshot shows how you can delete posts by post status. You can choose to delete published posts, draft posts, pending posts, scheduled posts, private posts or sticky posts.</p>"
+msgstr ""
+
+#. Screenshot description.
+msgid "<p>The above screenshot shows how you can delete posts by category. You can choose the post type from which you want to delete the posts.</p>"
+msgstr ""
+
+#. Screenshot description.
+msgid "<p>The above screenshot shows how you can delete posts by tag.</p>"
+msgstr ""
+
+#. Screenshot description.
+msgid "<p>The above screenshot shows how you can delete posts by custom taxonomy. You can choose the post type, taxonomy name and the terms from which you want to delete the posts.</p>"
+msgstr ""
+
+#. Screenshot description.
+msgid "<p>The above screenshot shows how you can delete posts by custom post type.</p>"
+msgstr ""
+
+#. Screenshot description.
+msgid "<p>The above screenshot shows how you can delete pages by status. You can choose between published pages, draft pages, pending pages, scheduled pages and private pages.</p>"
+msgstr ""
+
+#. Screenshot description.
+msgid "<p>The above screenshot shows how you can delete users by user role. You can also filter by user's registered date or login date.</p>"
+msgstr ""
+
+#. Screenshot description.
+msgid "<p>The above screenshot shows how you can delete users by user meta You can also filter by user's registered date or login date.</p>"
+msgstr ""
+
+#. Screenshot description.
+msgid "<p>The above screenshot shows how you can enable/disable different sections in the delete posts page of the Plugin. Similarly you can enable different sections in the other pages of the plugin like delete posts, delete pages, delete users, delete meta fields and delete misc.</p>"
+msgstr ""
+
+#. Screenshot description.
+msgid "<p>The above screenshot shows how you can enable/disable different sections in the delete users page of the Plugin.</p>"
+msgstr ""
+
+#. Screenshot description.
+msgid "<p>The above screenshot shows how you can enable/disable different sections in the delete meta fields page of the Plugin.</p>"
+msgstr ""
+
+#. Screenshot description.
+msgid "<p>The above screenshot shows the different pages that are available in the plugin.</p>"
+msgstr ""
+
+#. Screenshot description.
+msgid "<p>The above screenshot shows how you can schedule auto delete of posts. Note that this feature is available only when you buy <a href=\"http://bulkwp.com/addons/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=pro\">pro addons</a>.</p>"
+msgstr ""
+
+#. Found in description header.
+msgid "Features"
+msgstr ""
+
+#. Found in description header.
+msgid "Deleting posts"
+msgstr ""
+
+#. Found in description header.
+msgid "Deleting posts by content"
+msgstr ""
+
+#. Found in description header.
+msgid "Deleting posts by user"
+msgstr ""
+
+#. Found in description header.
+msgid "Deleting pages"
+msgstr ""
+
+#. Found in description header.
+msgid "Deleting post revisions"
+msgstr ""
+
+#. Found in description header.
+msgid "Deleting users"
+msgstr ""
+
+#. Found in description header.
+msgid "Deleting Meta Fields"
+msgstr ""
+
+#. Found in description header.
+msgid "Deleting Attachments"
+msgstr ""
+
+#. Found in description header.
+msgid "Deleting other items"
+msgstr ""
+
+#. Found in description header.
+msgid "Pro Addons"
+msgstr ""
+
+#. Found in description header.
+msgid "Development"
+msgstr ""
+
+#. Found in description header.
+msgid "Support"
+msgstr ""
+
+#. Found in description list item.
+msgid "Delete posts by category"
+msgstr ""
+
+#. Found in description list item.
+msgid "Delete posts by tag"
+msgstr ""
+
+#. Found in description list item.
+msgid "Delete posts by custom taxonomy"
+msgstr ""
+
+#. Found in description list item.
+msgid "Delete posts by custom post type"
+msgstr ""
+
+#. Found in description list item.
+msgid "Delete posts by url"
+msgstr ""
+
+#. Found in description list item.
+msgid "Delete posts by custom field (Available as a <a href=\"http://bulkwp.com/addons/bulk-delete-posts-by-custom-field/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=bd-cf\">Pro addon</a>)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Delete posts by title (Available as a <a href=\"http://bulkwp.com/addons/bulk-delete-posts-by-title/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=bd-ti\">Pro addon</a>)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Delete posts by duplicate title (Available as a <a href=\"http://bulkwp.com/addons/bulk-delete-posts-by-duplicate-title/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=bd-dti\">Pro addon</a>)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Delete all draft posts"
+msgstr ""
+
+#. Found in description list item.
+msgid "Delete all pending posts"
+msgstr ""
+
+#. Found in description list item.
+msgid "Delete all private posts"
+msgstr ""
+
+#. Found in description list item.
+msgid "Delete all scheduled posts"
+msgstr ""
+
+#. Found in description list item.
+msgid "Delete all posts from trash (Available as a <a href=\"http://bulkwp.com/addons/bulk-delete-from-trash/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=bd-th\">Pro addon</a>)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Post date greater than X days"
+msgstr ""
+
+#. Found in description list item.
+msgid "Post date less than X days"
+msgstr ""
+
+#. Found in description list item.
+msgid "Only public posts"
+msgstr ""
+
+#. Found in description list item.
+msgid "Only private posts"
+msgstr ""
+
+#. Found in description list item.
+msgid "Restrict to first N posts"
+msgstr ""
+
+#. Found in description list item.
+msgid "Delete permanently or just move to trash"
+msgstr ""
+
+#. Found in description list item.
+msgid "Schedule deletion of posts automatically (Available as a <a href=\"http://bulkwp.com/addons/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=pro\">Pro addon</a>)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Delete posts by content (Available as a <a href=\"http://bulkwp.com/addons/bulk-delete-posts-by-content/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=bd-p-co\">Pro addon</a>)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Delete duplicate posts by title (Available as a <a href=\"http://bulkwp.com/addons/bulk-delete-posts-by-duplicate-title/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=bd-dti\">Pro addon</a>)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Delete posts based on whether it contains attachment or not (Available as a <a href=\"http://bulkwp.com/addons/bulk-delete-posts-by-attachment/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=bd-p-at\">Pro addon</a>)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Delete posts by user role (Available as a <a href=\"http://bulkwp.com/addons/bulk-delete-posts-by-user-role/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=bd-ur\">Pro addon</a>)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Delete posts by user (Available as a <a href=\"http://bulkwp.com/addons/bulk-delete-posts-by-user/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=bd-p-u\">Pro addon</a>)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Delete all published pages"
+msgstr ""
+
+#. Found in description list item.
+msgid "Delete all draft pages"
+msgstr ""
+
+#. Found in description list item.
+msgid "Delete all pending pages"
+msgstr ""
+
+#. Found in description list item.
+msgid "Delete all private pages"
+msgstr ""
+
+#. Found in description list item.
+msgid "Delete all scheduled pages"
+msgstr ""
+
+#. Found in description list item.
+msgid "Delete all pages from trash (Available as a <a href=\"http://bulkwp.com/addons/bulk-delete-from-trash/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=bd-th\">Pro addon</a>)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Only public pages"
+msgstr ""
+
+#. Found in description list item.
+msgid "Only private pages"
+msgstr ""
+
+#. Found in description list item.
+msgid "Restrict to first N pages"
+msgstr ""
+
+#. Found in description list item.
+msgid "Schedule deletion of pages automatically (Available as a <a href=\"http://bulkwp.com/addons/scheduler-for-deleting-pages-by-status/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=bd-sp\">Pro addon</a>)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Delete all post revisions"
+msgstr ""
+
+#. Found in description list item.
+msgid "Delete users based on user role"
+msgstr ""
+
+#. Found in description list item.
+msgid "Delete users based on user meta fields"
+msgstr ""
+
+#. Found in description list item.
+msgid "Delete users who have not logged in in the last X days"
+msgstr ""
+
+#. Found in description list item.
+msgid "Delete users based on their registered date"
+msgstr ""
+
+#. Found in description list item.
+msgid "Delete Post meta fields"
+msgstr ""
+
+#. Found in description list item.
+msgid "Delete Comment meta fields"
+msgstr ""
+
+#. Found in description list item.
+msgid "Delete User meta fields"
+msgstr ""
+
+#. Found in description list item.
+msgid "Delete Attachments (Available as a <a href=\"http://bulkwp.com/addons/bulk-delete-attachments/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=bd-at\">Pro addon</a>)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Delete Jetpack Contact Form Messages"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Delete posts by custom field</strong> - Adds the ability to delete posts based on custom field. <a href=\"http://bulkwp.com/addons/bulk-delete-posts-by-custom-field/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=bd-cf\">More details</a>."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Delete posts by content</strong> - Adds the ability to delete posts based on content. <a href=\"http://bulkwp.com/addons/bulk-delete-posts-by-content/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=bd-p-co\">More details</a>."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Delete posts by attachment</strong> - Adds the ability to delete posts based on attachment <a href=\"http://bulkwp.com/addons/bulk-delete-posts-by-attachment/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=bd-p-at\">More details</a>."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Delete posts by title</strong> - Adds the ability to delete posts based on title. <a href=\"http://bulkwp.com/addons/bulk-delete-posts-by-title/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=bd-ti\">More details</a>."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Delete posts by duplicate title</strong> - Adds the ability to delete posts based on duplicate title. <a href=\"http://bulkwp.com/addons/bulk-delete-posts-by-duplicate-title/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=bd-dti\">More details</a>."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Delete posts by user role</strong> - Adds the ability to delete posts based on user role. <a href=\"http://bulkwp.com/addons/bulk-delete-posts-by-user-role/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=bd-ur\">More details</a>."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Delete posts by user</strong> - Adds the ability to delete posts based on user. <a href=\"http://bulkwp.com/addons/bulk-delete-posts-by-user/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=bd-p-u\">More details</a>."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Delete from trash</strong> - Adds the ability to delete posts and pages from trash. <a href=\"http://bulkwp.com/addons/bulk-delete-from-trash/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=bd-dh\">More details</a>."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Scheduler Email</strong> - Sends email whenever a Bulk WP Scheduler runs. <a href=\"http://bulkwp.com/addons/scheduler-email/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=bd-se\">More details</a>."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Scheduler for deleting posts Category</strong> - Adds the ability to schedule auto delete of posts based on category. <a href=\"http://bulkwp.com/addons/scheduler-for-deleting-posts-by-category/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=bd-sc\">More details</a>."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Scheduler for deleting posts Tag</strong> - Adds the ability to schedule auto delete of posts based on tag. <a href=\"http://bulkwp.com/addons/scheduler-for-deleting-posts-by-tag/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=bd-st\">More details</a>."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Scheduler for deleting posts by Custom Taxonomy</strong> - Adds the ability to schedule auto delete of posts based on custom taxonomy. <a href=\"http://bulkwp.com/addons/scheduler-for-deleting-posts-by-taxonomy/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=bd-stx\">More details</a>."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Scheduler for deleting posts by Custom post type</strong> - Adds the ability to schedule auto delete of posts based on custom post type. <a href=\"http://bulkwp.com/addons/scheduler-for-deleting-posts-by-post-type/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=bd-cpt\">More details</a>."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Scheduler for deleting posts by Post Status</strong> - Adds the ability to schedule auto delete of posts based on post status like drafts, pending posts, scheduled posts etc. <a href=\"http://bulkwp.com/addons/scheduler-for-deleting-posts-by-status/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=bd-sps\">More details</a>."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Scheduler for deleting pages by status</strong> - Adds the ability to schedule auto delete of pages based on status. <a href=\"http://bulkwp.com/addons/scheduler-for-deleting-pages-by-status/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=bd-sp\">More details</a>."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Scheduler for deleting users by User Role</strong> - Adds the ability to schedule auto delete of users based on user role. <a href=\"http://bulkwp.com/addons/scheduler-for-deleting-users-by-role/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=bd-u-ur\">More details</a>."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Scheduler for deleting users by User Meta</strong> - Adds the ability to schedule auto delete of users based on user meta. <a href=\"http://bulkwp.com/addons/scheduler-for-deleting-users-by-meta/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=bds-u-ma\">More details</a>."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Delete Post Meta Fields Pro</strong> - Adds the ability to delete post meta fields based on value and to schedule automatic deletion. <a href=\"http://bulkwp.com/addons/bulk-delete-post-meta/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=bd-m-p\">More details</a>."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Delete Comment Meta Fields Pro</strong> - Adds the ability to delete comment meta fields based on value and to schedule automatic deletion. <a href=\"http://bulkwp.com/addons/bulk-delete-comment-meta/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=bd-m-c\">More details</a>."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Delete User Meta Fields Pro</strong> - Adds the ability to delete user meta fields based on value and to schedule automatic deletion. <a href=\"http://bulkwp.com/addons/bulk-delete-user-meta/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=bd-m-u\">More details</a>."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Delete attachment</strong> - Adds the ability to delete attachments <a href=\"http://bulkwp.com/addons/bulk-delete-attachments/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=bd-at\">More details</a>."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Delete Jetpack Contact Form Messages Pro</strong> - Adds the ability to delete Jetpack Contact Form Messages based on filters and to schedule automatic deletion. <a href=\"http://bulkwp.com/addons/bulk-delete-jetpack-contact-form-messages/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=bd-jcm\">More details</a>."
+msgstr ""
+
+#. Found in description list item.
+msgid "If you have found a bug/issue or have a feature request, then post them in <a href=\"https://github.com/sudar/bulk-delete/issues\">github issues</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "If you have a question about the plugin usage or need help to troubleshoot, then post about it in our <a href=\"http://bulkwp.com/support\">BulkWP Support forums</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "If you have a question about any of the addon or need help to troubleshoot the addons, then post about it in our <a href=\"http://bulkwp.com/support\">BulkWP Support forums</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "If you like the Plugin, then kindly leave a review/feedback at <a href=\"http://wordpress.org/support/view/plugin-reviews/bulk-delete\">WordPress repo page</a>. This will help more people to discover the plugin."
+msgstr ""
+
+#. Found in description list item.
+msgid "Checkout other <a href=\"http://sudarmuthu.com/wordpress\">WordPress Plugins</a> that I have written"
+msgstr ""
+
+#. Found in description list item.
+msgid "If anything else, then contact us in <a href=\"http://twitter.com/bulkwp\">twitter</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Bulk Delete is a WordPress Plugin that allows you to delete posts, pages, attachments, users and meta fields in bulk based on different conditions and filters."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The following conditions and filters are supported."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "This Plugin supports the following bulk delete options for deleting posts"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "All the above options support the following filters"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Like posts, all the above options support the following filters as well"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "More options coming soon :)"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "As you can see, the Plugin provide comprehensive options and filters to perform bulk deletion."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "If you looking for just moving posts, instead of deleting, then use <a href=\"http://sudarmuthu.com/wordpress/bulk-move\">Bulk Move Plugin</a> instead."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The following are the popular pro addons that are available for purchase. The full list of <a href=\"http://bulkwp.com/addons/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=pro\">pro addons</a> is available at the plugin site."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The development of the Plugin happens over at <a href=\"https://github.com/sudar/bulk-delete\">github</a>. If you want to contribute to the Plugin, fork the <a href=\"https://github.com/sudar/bulk-delete\">project at github</a> and send me a pull request."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "If you are not familiar with either git or Github then refer to this <a href=\"http://sudarmuthu.com/blog/contributing-to-project-hosted-in-github\">guide to see how fork and send pull request</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "If you are looking for ideas, then you can start with one of TODO items from the <a href=\"7\">issue tracker</a> :)"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "The simplest way to install the plugin is to use the built-in automatic plugin installer. Go to plugins -&gt; Add New and then enter the name of the plugin to automatically install it."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "If for some reason the above method doesn't work then you can download the plugin as a zip file, extract it and then use your favorite FTP client and then upload the contents of the zip file to the wp-content/plugins/ directory of your WordPress installation and then activate the Plugin from Plugins page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the ability to delete users based on their registered date. (Issue #115)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Sanitize action post field before using it."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated Screenshots that are linked in the readme."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug that caused a warning while updating addons. (Issue #113)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed typos and enhanced labels."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the ability to delete users who have never logged in."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added compatibility with \"Advanced Custom Fields Pro\" plugin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue in deleting posts by category"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added actions that are executed before and after a query is executed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added actions that are executed before and after scripts and styles are enqueued."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added compatibility with \"The Events Calendar\" plugin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added compatibility with \"WooCommerce\" plugin. (Issue #111)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Display warning in the System Info page if certain required options are disabled. (Issue #106)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added information about \"WP_CRON_LOCK_TIMEOUT\" to System Info"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the ability to delete users based on user meta. (Issue #79)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved the UI of dropdowns. (Issue #101)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "(Addon) Added the ability to delete attachments. (Issue #98)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweaked the code that generates the UI and lot of hidden improvements."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweaked the code that retrieves Mysql version. (Issue #102)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweaked the license handling code. (Issue #92)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweaked the build process"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Use compressed JS and CSS files for better performance. (Issue #62)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Improve performance of DB queries to prevent timeouts. (Issue #93)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Add details about different post types in system info. (Issue #100)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Add details about timezone settings in system info. (Issue #100)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Use Google CDN for jQuery UI CSS, instead of ASP.NET"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Added the ability to delete post meta fields (Issue #43)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Added the ability to delete comment meta fields (Issue #70)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Added the ability to delete user meta fields (Issue #87)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: (Addon) Added the ability to delete posts based on attachment"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Added the ability to hook into JavaScript message, date picker and validation (Issue 82, 83, 84)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<p>New: Prevent PHP from timing out while performing bulk operations(Issue #81)</p>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<p>Tweak: Group memory related info together in system info output</p>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Tweak the warning and error messages that are shown to the users"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Remove hard dependency on \"Bulk Delete From Trash\" addon in code"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Tweak the admin UI for WordPress 4.0 and added custom plugin icons"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Tweak the code that handles automatic update of addons"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Ability to delete Jetpack Contact Form Messages (Issue #72)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: New Addon to send email whenever a Bulk WP Scheduler runs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Settings screen for addons (Issue #78)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<p>New: Add setting helper functions for addons</p>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<p>Tweak: Tweak the names of the menu items (Issue #73)</p>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Add information about <code>DISABLE_WP_CRON</code> in system info"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Tweak labels in Scheduled Jobs page (Issue #71)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Removed unused variable"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Removed old compatibility code for <code>The Events Calendar</code> plugin"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Add filters to extend menu items (Issue #74)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Add filters to extend meta boxes in each page (Issue #75)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<p>Tweak: Remove <code>upgraded from</code> from system info (Issue #77)</p>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<p>Bug: Fixed a warning that happened because of duplicate call to <code>add_meta_boxes</code></p>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Ability to delete users in batches (Issue #47)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: A new addon to delete posts based on users (Issue #6)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<p>New: Added the \"Delete posts from trash\" addon (Issue #65)</p>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<p>Tweak: Added <code>EMPTY_TRASH_DAYS</code> to system info page (Issue #67)</p>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<p>Tweak: Change the contextual help content for admin screens (Issue #68)</p>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<p>Bug: Added compatibility for PHP version 5.2.4 (Issue #66)</p>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug: Fixed a bug in JavaScript validation in \"Delete by URL\" module (Issue #69)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug: Added compatibility for PHP version 5.2.4 (Issue #64)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Deleting users had as issue that was introduced in v5.0"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Add the ability to delete posts by duplicate title (#56)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Add a new page that displays system information for debugging"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Add the ability to handle addon license"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<p>New: Use <code>add_settings_error</code> method to display information to users</p>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<p>Tweak: Make Bulk_Delete class singleton</p>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Move all deprecated functions and code to a separate file"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Add the ability to filter text displayed in admin footer"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Change the menu text for Schedule page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Move delete page modules to a separate page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Refactored the way request was handled"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Update screenshots"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Handle expired license properly"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Ability to delete posts from non-public post types as well"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fix the height of the sidebar"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Move request processing code for deleting by custom field to addon"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Deleting first x posts deletes all posts while deleting by category (#44)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Posts are moved to trash even if \"Delete permanently\" option is selected (#45)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Bulk Delete menu overrides other menus at the same position"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Ability to delete all published posts from \"Post Status\" module"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Ability to delete all sticky posts from \"Post Status\" module"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Ability to delete posts by title"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Moved all option page to a separate top menu"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Tweak UI for WordPress 3.8"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fix undefined notices and strict warnings"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Ability to delete custom post type posts by categories"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Ability to delete custom post type posts by custom taxonomy"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fix link to \"Custom Field\" Addon"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Bug in deleting custom post types with hypen"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Explicitly mark static methods as static"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add the ability to custom post type posts by post status"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add the \"delete by custom field\" pro addon"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix issue in displaying meta boxes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Show taxonomy label instead of slug"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix issue in deleting posts by custom taxonomy"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix JavaScript bug that prevented deleting posts by days and in batches"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add the ability to delete users"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Move menu items under tools"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change minimum requirement to WordPress 3.3"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix compatibility issues with \"The event calendar\" Plugin"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support to delete custom post types"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Gujarati translations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Ignore sticky posts when deleting drafts"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Incorporated Screen API to select/deselect different sections of the page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Load only sections that are selected by the user"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enhanced the deletion of posts using custom taxonomies"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the ability to schedule auto delete of taxonomies by date"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Cleaned up all messages that are shown to the user"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added on screen help tab"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for scheduling auto delete of pages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for scheduling auto delete of drafts"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue in deleting post revisions"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Move post revisions to a separate section"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Better handling of post count to improve performance"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Moved pages to a separate section"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added ability to delete pages in different status"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the option to schedule auto delete of tags by date"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug which was not allowing categories to be deleted based on date"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added separate delete by sections for pages, drafts and urls"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the option to delete by date for drafts, revisions, future posts etc"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the option to delete by date for pages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for pro addons"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added GUI to see cron jobs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed unused wpdb-&gt;prepare() function calls"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Serbian translations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Hindi translations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added checks to see if elements are present in the array before accessing them."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed CSS issues in IE"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Lithuanian translations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a major issue in how dates were handled."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Major UI revamp"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added debug information and support urls"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for deleting by permalink. Credit Martin Capodici"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issues with translations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Russian translations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added roles and capabilities for menu"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Bulgarian translations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Italian translations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Spanish translations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Turkish translations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added German translations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added some optimization to handle huge number of posts in underpowered servers"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support to delete posts by custom taxonomies"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Dutch Translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Brazilian Portuguese Translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Proper handling of limits."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for private posts."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added an option to delete posts directly or send them to trash."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for translation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added option to delete all scheduled posts."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added option to delete all pending posts."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added option to delete by date."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Prevented drafts from deleted when only posts are selected"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issues with paging"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "First version"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "New Features"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Enhancements"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Bug Fixes"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "New: Prevent PHP from timing out while performing bulk operations(Issue #81)"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Tweak: Group memory related info together in system info output"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "New: Add setting helper functions for addons"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Tweak: Tweak the names of the menu items (Issue #73)"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Tweak: Remove <code>upgraded from</code> from system info (Issue #77)"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Bug: Fixed a warning that happened because of duplicate call to <code>add_meta_boxes</code>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "New: Added the \"Delete posts from trash\" addon (Issue #65)"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Tweak: Added <code>EMPTY_TRASH_DAYS</code> to system info page (Issue #67)"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Tweak: Change the contextual help content for admin screens (Issue #68)"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Bug: Added compatibility for PHP version 5.2.4 (Issue #66)"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "New: Use <code>add_settings_error</code> method to display information to users"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Tweak: Make Bulk_Delete class singleton"
+msgstr ""
+
+#. Found in faq header.
+msgid "After installing the Plugin, I just see a blank page."
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I know what are the current values for these options configured in my server?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I disable different sections of the Plugin"
+msgstr ""
+
+#. Found in faq header.
+msgid "Is it possible to restore the posts that I have deleted through the Plugin?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Is it possible that some Plugin are not compatible with Bulk Delete?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Is it possible to schedule deletion of posts?"
+msgstr ""
+
+#. Found in faq header.
+msgid "I have a question about the pro addons, how should I contact you?"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<code>max_execution_time = 600</code> - Maximum execution time of each script, in seconds"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<code>max_input_time = 30</code> - Maximum amount of time each script may spend parsing request data"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<code>memory_limit = 256M</code> - Maximum amount of memory a script may consume"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "This can happen if you have huge number of posts and your server is very underpowered. Check your PHP error log to see if there are any errors and correct them. The most common problems are script timeout or running out of memory. Change your PHP.ini file and increase the script timeout and/or amount of memory used by PHP process. You can view the current values of these settings from the system info page which can be accessed by going to Bulk WP -&gt; System Info."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "In particular try to change the following settings"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "You can also try to disable different sections of the Plugin, if you have huge number of posts."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Access the System Info page using the menu Bulk WP -&gt; System Info. The System info page displays the values for the different configuration options that are configured in your server."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "You can enable or disable different sections of the Plugin by choosing the required modules in the screen option. You can open screen options by clicking the link in the top right corner of the Plugin page."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "If you choose the option \"Move to trash\" then you can find them from trash. But if you choose \"Delete permanently\", then it is not possible to retrieve the posts. So be <strong>very careful</strong>."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes. If a Plugin rewrites the query vars by using <code>add_filter( 'pre_get_posts' )</code> then it may be incompatible with this Plugin."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "If you find any Plugin with which Bulk Delete doesn't work, then let me know and I will try to see if I can add support through some hack."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "The ability to schedule deletion of posts is available as a <a href=\"http://bulkwp.com/addons/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=pro\">pro addon</a>."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "You can contact us by posting about it in our <a href=\"http://bulkwp.com/support/?utm_source=wprepo&amp;utm_campaign=BulkDelete&amp;utm_medium=readme&amp;utm_content=support\">support forum</a>."
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Translation"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Credits"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Readme Generator"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Dutch (Thanks Rene)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Brazilian Portuguese (Thanks Marcelo of Criacao de Sites em Ribeirao Preto)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "German (Thanks Jenny Beelens)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Turkish Portuguese (Thanks Bahadir Yildiz)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Spanish (Thanks Brian Flores)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Italian (Thanks Paolo Gabrielli)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Bulgarian (Thanks Nikolay Nikolov)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Russian (Thanks Maxim Pesteev)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Lithuanian (Thanks Vincent G)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Hindi (Thanks Love Chandel)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Serbian (Thanks Diana)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Gujarati (Thanks Puneet)"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "The Plugin currently has translations for the following languages."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "The pot file is available with the Plugin. If you are willing to do translation for the Plugin, use the pot file to create the .po files for your language and let me know."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Thanks <a href=\"http://www.martincapodici.com\">Martin Capodici</a> for providing the code to implement the \"delete specific page\" feature."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Thanks to <a href=\"http://trentrichardson.com/examples/timepicker/\">Time picker addon</a> JavaScript library, which the Plugin uses."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Thanks to <a href=\"https://select2.github.io/\">select2</a> JavaScript library, which the Plugin uses."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "This Readme file was generated using <a href='http://sudarmuthu.com/wordpress/wp-readme'>wp-readme</a>, which generates readme files for WordPress Plugins."
+msgstr ""

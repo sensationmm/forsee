@@ -1,0 +1,6 @@
+drwxr-xr-x    2 coursest   coursest         4096 Nov 19  2015 .
+drwxr-xr-x    3 coursest   coursest         4096 Nov 19  2015 ..
+-rw-r--r--    1 coursest   coursest         1539 Nov 19  2015 LICENSE
+-rw-r--r--    1 coursest   coursest          896 Nov 19  2015 README.md
+-rw-r--r--    1 coursest   coursest       238894 Nov 19  2015 cacert.pem
+-rw-r--r--    1 coursest   coursest        29321 Nov 19  2015 requestcore.class.php

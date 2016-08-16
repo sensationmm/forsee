@@ -1,0 +1,8 @@
+drwxr-xr-x    3 coursest   coursest         4096 Jan 19 16:03 .
+drwxr-xr-x    6 coursest   coursest         4096 Jan 19 16:03 ..
+-rw-r--r--    1 coursest   coursest        43076 Jan 19 16:03 class-wp-smush-admin.php
+-rw-r--r--    1 coursest   coursest         2013 Jan 19 16:03 class-wp-smush-bulk.php
+-rw-r--r--    1 coursest   coursest         2877 Jan 19 16:03 class-wp-smush-migrate.php
+-rw-r--r--    1 coursest   coursest        13915 Jan 19 16:03 class-wp-smush-nextgen.php
+-rw-r--r--    1 coursest   coursest        39604 Jan 19 16:03 class-wp-smush.php
+drwxr-xr-x    2 coursest   coursest         4096 Jan 19 16:03 nextgen-integration

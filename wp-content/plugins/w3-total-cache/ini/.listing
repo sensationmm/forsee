@@ -1,0 +1,13 @@
+drwxr-xr-x    2 coursest   coursest         4096 Nov 19  2015 .
+drwxr-xr-x   10 coursest   coursest         4096 Nov 19  2015 ..
+-rw-r--r--    1 coursest   coursest          660 Nov 19  2015 apc.ini
+-rw-r--r--    1 coursest   coursest         6259 Nov 19  2015 dbcluster-config-sample.php
+-rw-r--r--    1 coursest   coursest          836 Nov 19  2015 eaccelerator.ini
+-rw-r--r--    1 coursest   coursest            0 Nov 19  2015 index.html
+-rw-r--r--    1 coursest   coursest          238 Nov 19  2015 memcache.ini
+-rw-r--r--    1 coursest   coursest          807 Nov 19  2015 nginx-network-sample-config.conf
+-rw-r--r--    1 coursest   coursest          580 Nov 19  2015 nginx-standalone-sample-config.conf
+-rw-r--r--    1 coursest   coursest          225 Nov 19  2015 php.append.ini
+-rw-r--r--    1 coursest   coursest          511 Nov 19  2015 s3-sample-policy.txt
+-rw-r--r--    1 coursest   coursest         2554 Nov 19  2015 varnish-sample-config.vcl
+-rw-r--r--    1 coursest   coursest          716 Nov 19  2015 xcache.ini

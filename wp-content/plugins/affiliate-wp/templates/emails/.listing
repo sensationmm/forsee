@@ -1,0 +1,5 @@
+drwxr-xr-x    2 coursest   coursest         4096 Jun  1 09:54 .
+drwxr-xr-x    3 coursest   coursest         4096 Jun  1 09:54 ..
+-rw-r--r--    1 coursest   coursest          248 Jun  1 09:54 body-default.php
+-rw-r--r--    1 coursest   coursest         2626 Jun  1 09:54 footer-default.php
+-rw-r--r--    1 coursest   coursest         3447 Jun  1 09:54 header-default.php

@@ -1,0 +1,17 @@
+drwxr-xr-x    3 coursest   coursest         4096 Nov 19  2015 .
+drwxr-xr-x   10 coursest   coursest         4096 Nov 19  2015 ..
+-rw-r--r--    1 coursest   coursest         4207 Nov 19  2015 akamai.php
+-rw-r--r--    1 coursest   coursest         2537 Nov 19  2015 att.php
+-rw-r--r--    1 coursest   coursest         3295 Nov 19  2015 azure.php
+-rw-r--r--    1 coursest   coursest         4123 Nov 19  2015 cf.php
+-rw-r--r--    1 coursest   coursest         3986 Nov 19  2015 cf2.php
+drwxr-xr-x    2 coursest   coursest         4096 Nov 19  2015 common
+-rw-r--r--    1 coursest   coursest         3030 Nov 19  2015 cotendo.php
+-rw-r--r--    1 coursest   coursest         2655 Nov 19  2015 edgecast.php
+-rw-r--r--    1 coursest   coursest         4183 Nov 19  2015 ftp.php
+-rw-r--r--    1 coursest   coursest            0 Nov 19  2015 index.html
+-rw-r--r--    1 coursest   coursest         6600 Nov 19  2015 maxcdn.php
+-rw-r--r--    1 coursest   coursest         1837 Nov 19  2015 mirror.php
+-rw-r--r--    1 coursest   coursest         6572 Nov 19  2015 netdna.php
+-rw-r--r--    1 coursest   coursest         3780 Nov 19  2015 rscf.php
+-rw-r--r--    1 coursest   coursest         4008 Nov 19  2015 s3.php

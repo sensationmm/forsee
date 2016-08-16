@@ -1,0 +1,109 @@
+body#cns-courses, body#taxonomy-courses, body#cns-my-reports {
+	
+	.courses {
+		padding: 3% 0 5% 0;
+		@include clearfix;
+
+		.course {
+			@include span(3);
+			padding: 1% 1% 20% 1%;
+			border: 1px solid $border;
+			margin-bottom: 2.5641%;
+			text-align: center;
+			height: 0;
+			overflow: hidden;
+
+			&:nth-child(4n) {
+				@include last; 
+			}
+
+			.course-title {
+				color: $blue;
+				font-weight: bold;
+				@include fontsize(24, 1.2);
+				margin-bottom: 2%;
+			}
+
+			.course-logo {
+				img { max-width: 100%; }
+			}
+
+			.course-view {
+				display: none;
+				a {
+					display: block;
+					color: $blue;
+					background: #ffffff;
+					text-transform: uppercase;
+					font-family: 'Montserrat';
+					@include fontsize(16);
+					text-decoration: none;
+					padding: 2%;
+					border-radius: 3px;
+				}
+			}
+
+			&:hover {
+				background: $blue;
+				color: #ffffff; 
+
+				.course-title { color: #ffffff; }
+				.course-view { display: block; }
+				.course-logo { display: none; }
+			}
+		}
+
+		.report {
+			padding-bottom: 15%;
+
+			.course-view { 
+				display: block; 
+				position: absolute;
+				bottom: 5%;
+				width: 92%;
+
+				a {
+					color: #ffffff; 
+					background: $blue; 
+					border: 1px solid $blue;
+
+					&:hover {
+						color: $blue;
+						background: #ffffff;
+					}
+				}
+			}
+
+			&:hover {
+				background: none;
+				color: $blue;
+
+				.course-title { color: $blue; }
+			}
+		}
+	}
+
+	.course-categories {
+		border-top: 1px solid $bg-greylight-1;
+		margin-bottom: 8%;
+
+		@include navlink();
+
+		.course-category {
+			padding: 2% 0;
+			border-bottom: 1px solid $bg-greylight-1;
+
+			.button {
+				padding: 1% 2%;
+				float: right;
+				text-decoration: none;
+			}
+
+			.course-count {
+				display: inline-block;
+				margin-bottom: 2%;
+			}
+		}
+	}
+
+}

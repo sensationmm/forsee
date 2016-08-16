@@ -1,0 +1,10 @@
+drwxr-xr-x    2 coursest   coursest         4096 Jan 28 12:52 .
+drwxr-xr-x    4 coursest   coursest         4096 Jan 28 12:52 ..
+-rw-r--r--    1 coursest   coursest        11844 Jan 28 12:52 class-wc-addons-compatibility.php
+-rw-r--r--    1 coursest   coursest         2634 Jan 28 12:52 class-wc-cog-compatibility.php
+-rw-r--r--    1 coursest   coursest        18732 Jan 28 12:52 class-wc-cp-compatibility.php
+-rw-r--r--    1 coursest   coursest         1906 Jan 28 12:52 class-wc-opc-compatibility.php
+-rw-r--r--    1 coursest   coursest         5182 Jan 28 12:52 class-wc-pnr-compatibility.php
+-rw-r--r--    1 coursest   coursest         1292 Jan 28 12:52 class-wc-po-compatibility.php
+-rw-r--r--    1 coursest   coursest         1148 Jan 28 12:52 class-wc-qv-compatibility.php
+-rw-r--r--    1 coursest   coursest          947 Jan 28 12:52 class-wc-shipstation-compatibility.php

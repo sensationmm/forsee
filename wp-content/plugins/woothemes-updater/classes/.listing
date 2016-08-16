@@ -1,0 +1,8 @@
+drwxr-xr-x    2 coursest   coursest         4096 Nov 20  2015 .
+drwxr-xr-x    6 coursest   coursest         4096 Nov 20  2015 ..
+-rw-r--r--    1 coursest   coursest        32351 Nov 20  2015 class-woothemes-updater-admin.php
+-rw-r--r--    1 coursest   coursest         8108 Nov 20  2015 class-woothemes-updater-api.php
+-rw-r--r--    1 coursest   coursest         5892 Nov 20  2015 class-woothemes-updater-licenses-table.php
+-rw-r--r--    1 coursest   coursest         2721 Nov 20  2015 class-woothemes-updater-screen.php
+-rw-r--r--    1 coursest   coursest        14499 Nov 20  2015 class-woothemes-updater-update-checker.php
+-rw-r--r--    1 coursest   coursest        10513 Nov 20  2015 class-woothemes-updater.php

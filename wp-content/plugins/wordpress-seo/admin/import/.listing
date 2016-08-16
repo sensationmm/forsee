@@ -1,0 +1,6 @@
+drwxr-xr-x    2 coursest   coursest         4096 Jan 13 19:25 .
+drwxr-xr-x   10 coursest   coursest         4096 Jan 13 19:25 ..
+-rw-r--r--    1 coursest   coursest         1247 Jan 13 19:25 class-import-aioseo-hooks.php
+-rw-r--r--    1 coursest   coursest         2006 Jan 13 19:25 class-import-hooks.php
+-rw-r--r--    1 coursest   coursest         1238 Jan 13 19:25 class-import-robots-meta-hooks.php
+-rw-r--r--    1 coursest   coursest         1178 Jan 13 19:25 class-import-wpseo-hooks.php

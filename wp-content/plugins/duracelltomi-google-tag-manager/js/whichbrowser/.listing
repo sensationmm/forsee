@@ -1,0 +1,7 @@
+drwxr-xr-x    4 coursest   coursest         4096 Mar 30 15:39 .
+drwxr-xr-x    3 coursest   coursest         4096 Mar 30 15:39 ..
+-rw-r--r--    1 coursest   coursest           53 Mar 30 15:39 .htaccess
+-rw-r--r--    1 coursest   coursest        13121 Mar 30 15:39 README.md
+drwxr-xr-x    2 coursest   coursest         4096 Mar 30 15:39 data
+-rw-r--r--    1 coursest   coursest         9328 Mar 30 15:39 detect.php
+drwxr-xr-x    2 coursest   coursest         4096 Mar 30 15:39 libraries

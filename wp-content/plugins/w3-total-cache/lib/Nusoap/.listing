@@ -1,0 +1,13 @@
+drwxr-xr-x    2 coursest   coursest         4096 Nov 19  2015 .
+drwxr-xr-x   13 coursest   coursest         4096 Nov 19  2015 ..
+-rw-r--r--    1 coursest   coursest        29229 Nov 19  2015 class.nusoap_base.php
+-rw-r--r--    1 coursest   coursest         2255 Nov 19  2015 class.soap_fault.php
+-rw-r--r--    1 coursest   coursest        25161 Nov 19  2015 class.soap_parser.php
+-rw-r--r--    1 coursest   coursest        44412 Nov 19  2015 class.soap_transport_http.php
+-rw-r--r--    1 coursest   coursest         2335 Nov 19  2015 class.soap_val.php
+-rw-r--r--    1 coursest   coursest        32679 Nov 19  2015 class.soapclient.php
+-rw-r--r--    1 coursest   coursest        78204 Nov 19  2015 class.wsdl.php
+-rw-r--r--    1 coursest   coursest         5416 Nov 19  2015 class.wsdlcache.php
+-rw-r--r--    1 coursest   coursest        35220 Nov 19  2015 class.xmlschema.php
+-rw-r--r--    1 coursest   coursest            0 Nov 19  2015 index.html
+-rw-r--r--    1 coursest   coursest       289425 Nov 19  2015 nusoap.php

@@ -1,0 +1,10 @@
+drwxr-xr-x    6 coursest   coursest         4096 Jan 19 16:03 .
+drwxr-xr-x   30 coursest   coursest         4096 Jun  1 17:31 ..
+drwxr-xr-x    5 coursest   coursest         4096 Jan 19 16:03 assets
+drwxr-xr-x    4 coursest   coursest         4096 Jan 19 16:03 extras
+drwxr-xr-x    2 coursest   coursest         4096 Jan 19 16:03 languages
+drwxr-xr-x    3 coursest   coursest         4096 Jan 19 16:03 lib
+-rw-r--r--    1 coursest   coursest        35147 Jan 19 16:03 license.txt
+-rw-r--r--    1 coursest   coursest        12296 Jan 19 16:03 readme.txt
+-rw-r--r--    1 coursest   coursest         1333 Jan 19 16:03 uninstall.php
+-rw-r--r--    1 coursest   coursest         4669 Jan 19 16:03 wp-smush.php

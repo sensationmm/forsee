@@ -1,0 +1,7 @@
+drwxr-xr-x    2 coursest   coursest         4096 Dec  1  2015 .
+drwxr-xr-x    4 coursest   coursest         4096 Dec  1  2015 ..
+-rw-r--r--    1 coursest   coursest         4426 Dec  1  2015 bulk-delete.js
+-rw-r--r--    1 coursest   coursest        12805 Dec  1  2015 bulk-delete.js.map
+-rw-r--r--    1 coursest   coursest         2582 Dec  1  2015 bulk-delete.min.js
+-rw-r--r--    1 coursest   coursest        40523 Dec  1  2015 jquery-ui-timepicker-addon.min.js
+-rw-r--r--    1 coursest   coursest        62834 Dec  1  2015 select2.min.js

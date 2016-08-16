@@ -1,0 +1,10 @@
+drwxr-xr-x    5 coursest   coursest         4096 Dec  1  2015 .
+drwxr-xr-x   30 coursest   coursest         4096 Jun  1 17:31 ..
+drwxr-xr-x    4 coursest   coursest         4096 Dec  1  2015 assets
+-rw-r--r--    1 coursest   coursest        25446 Dec  1  2015 bulk-delete.php
+drwxr-xr-x   18 coursest   coursest         4096 Dec  1  2015 include
+drwxr-xr-x    2 coursest   coursest         4096 Dec  1  2015 languages
+-rw-r--r--    1 coursest   coursest        31136 Dec  1  2015 readme.txt
+-rw-r--r--    1 coursest   coursest       101362 Dec  1  2015 tags
+-rw-r--r--    1 coursest   coursest        45328 Dec  1  2015 tmp-bulk-delete-readme.pot
+-rw-r--r--    1 coursest   coursest        40930 Dec  1  2015 tmp-bulk-delete.pot

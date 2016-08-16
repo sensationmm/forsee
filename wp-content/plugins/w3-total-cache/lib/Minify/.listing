@@ -1,0 +1,10 @@
+drwxr-xr-x    5 coursest   coursest         4096 Nov 19  2015 .
+drwxr-xr-x   13 coursest   coursest         4096 Nov 19  2015 ..
+-rw-r--r--    1 coursest   coursest        43622 Nov 19  2015 FirePHP.php
+drwxr-xr-x    2 coursest   coursest         4096 Nov 19  2015 HTTP
+-rw-r--r--    1 coursest   coursest        12958 Nov 19  2015 JSMin.php
+-rw-r--r--    1 coursest   coursest        47248 Nov 19  2015 JSMinPlus.php
+drwxr-xr-x    6 coursest   coursest         4096 Nov 19  2015 Minify
+-rw-r--r--    1 coursest   coursest        21593 Nov 19  2015 Minify.php
+drwxr-xr-x    2 coursest   coursest         4096 Nov 19  2015 Solar
+-rw-r--r--    1 coursest   coursest            0 Nov 19  2015 index.html

@@ -1,0 +1,12 @@
+drwxr-xr-x    7 coursest   coursest         4096 Jan 11 12:48 .
+drwxr-xr-x   30 coursest   coursest         4096 Jun  1 17:31 ..
+-rw-r--r--    1 coursest   coursest           16 Jan 11 12:48 .gitignore
+-rw-r--r--    1 coursest   coursest         2206 Jan 11 12:48 DEVELOPER.md
+drwxr-xr-x    4 coursest   coursest         4096 Jan 11 12:48 assets
+-rw-r--r--    1 coursest   coursest         8428 Jan 11 12:48 changelog.txt
+-rw-r--r--    1 coursest   coursest          423 Jan 11 12:48 gateway-stripe.php
+drwxr-xr-x    3 coursest   coursest         4096 Jan 11 12:48 includes
+drwxr-xr-x    2 coursest   coursest         4096 Jan 11 12:48 languages
+drwxr-xr-x    2 coursest   coursest         4096 Jan 11 12:48 templates
+drwxr-xr-x    2 coursest   coursest         4096 Jan 11 12:48 woo-includes
+-rw-r--r--    1 coursest   coursest         6590 Jan 11 12:48 woocommerce-gateway-stripe.php

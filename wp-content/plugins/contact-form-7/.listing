@@ -1,0 +1,12 @@
+drwxr-xr-x    7 coursest   coursest         4096 Nov 30  2015 .
+drwxr-xr-x   30 coursest   coursest         4096 Jun  1 17:31 ..
+drwxr-xr-x    6 coursest   coursest         4096 Nov 30  2015 admin
+drwxr-xr-x    3 coursest   coursest         4096 Nov 30  2015 images
+drwxr-xr-x    4 coursest   coursest         4096 Nov 30  2015 includes
+drwxr-xr-x    2 coursest   coursest         4096 Nov 30  2015 languages
+-rw-r--r--    1 coursest   coursest          795 Nov 30  2015 license.txt
+drwxr-xr-x    2 coursest   coursest         4096 Nov 30  2015 modules
+-rw-r--r--    1 coursest   coursest         7646 Nov 30  2015 readme.txt
+-rw-r--r--    1 coursest   coursest         3518 Nov 30  2015 settings.php
+-rw-r--r--    1 coursest   coursest          456 Nov 30  2015 uninstall.php
+-rw-r--r--    1 coursest   coursest         1642 Nov 30  2015 wp-contact-form-7.php

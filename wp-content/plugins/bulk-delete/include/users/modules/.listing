@@ -1,0 +1,4 @@
+drwxr-xr-x    2 coursest   coursest         4096 Dec  1  2015 .
+drwxr-xr-x    3 coursest   coursest         4096 Dec  1  2015 ..
+-rw-r--r--    1 coursest   coursest         5041 Dec  1  2015 class-bulk-delete-users-by-user-meta.php
+-rw-r--r--    1 coursest   coursest         4254 Dec  1  2015 class-bulk-delete-users-by-user-role.php

@@ -1,0 +1,9 @@
+drwxr-xr-x    2 coursest   coursest         4096 Jan 13 19:25 .
+drwxr-xr-x   10 coursest   coursest         4096 Jan 13 19:25 ..
+-rw-r--r--    1 coursest   coursest         1888 Jan 13 19:25 class-taxonomy-content-fields.php
+-rw-r--r--    1 coursest   coursest         6560 Jan 13 19:25 class-taxonomy-fields-presenter.php
+-rw-r--r--    1 coursest   coursest         1904 Jan 13 19:25 class-taxonomy-fields.php
+-rw-r--r--    1 coursest   coursest         9029 Jan 13 19:25 class-taxonomy-metabox.php
+-rw-r--r--    1 coursest   coursest         4550 Jan 13 19:25 class-taxonomy-settings-fields.php
+-rw-r--r--    1 coursest   coursest         4615 Jan 13 19:25 class-taxonomy-social-fields.php
+-rw-r--r--    1 coursest   coursest        10889 Jan 13 19:25 class-taxonomy.php

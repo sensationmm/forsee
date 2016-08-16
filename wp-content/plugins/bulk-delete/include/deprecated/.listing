@@ -1,0 +1,4 @@
+drwxr-xr-x    2 coursest   coursest         4096 Dec  1  2015 .
+drwxr-xr-x   18 coursest   coursest         4096 Dec  1  2015 ..
+-rw-r--r--    1 coursest   coursest          531 Dec  1  2015 class-bulk-delete-users.php
+-rw-r--r--    1 coursest   coursest         1778 Dec  1  2015 deprecated.php

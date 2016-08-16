@@ -1,0 +1,8 @@
+drwxr-xr-x    3 coursest   coursest         4096 Jan 13 19:25 .
+drwxr-xr-x    3 coursest   coursest         4096 Jan 13 19:25 ..
+-rw-r--r--    1 coursest   coursest          123 Jan 13 19:25 .hg_archival.txt
+-rw-r--r--    1 coursest   coursest          921 Jan 13 19:25 .hgtags
+-rw-r--r--    1 coursest   coursest         1059 Jan 13 19:25 LICENSE
+-rw-r--r--    1 coursest   coursest          964 Jan 13 19:25 README.md
+-rw-r--r--    1 coursest   coursest          674 Jan 13 19:25 composer.json
+drwxr-xr-x    3 coursest   coursest         4096 Jan 13 19:25 lib

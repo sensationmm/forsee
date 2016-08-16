@@ -1,0 +1,13 @@
+drwxr-xr-x    2 coursest   coursest         4096 Feb  2 08:37 .
+drwxr-xr-x   14 coursest   coursest         4096 Feb  2 08:37 ..
+-rw-r--r--    1 coursest   coursest         4771 Feb  2 08:37 class-wc-email-cancelled-order.php
+-rw-r--r--    1 coursest   coursest         6232 Feb  2 08:37 class-wc-email-customer-completed-order.php
+-rw-r--r--    1 coursest   coursest         5867 Feb  2 08:37 class-wc-email-customer-invoice.php
+-rw-r--r--    1 coursest   coursest         3322 Feb  2 08:37 class-wc-email-customer-new-account.php
+-rw-r--r--    1 coursest   coursest         3083 Feb  2 08:37 class-wc-email-customer-note.php
+-rw-r--r--    1 coursest   coursest         2925 Feb  2 08:37 class-wc-email-customer-processing-order.php
+-rw-r--r--    1 coursest   coursest         7724 Feb  2 08:37 class-wc-email-customer-refunded-order.php
+-rw-r--r--    1 coursest   coursest         3040 Feb  2 08:37 class-wc-email-customer-reset-password.php
+-rw-r--r--    1 coursest   coursest         4739 Feb  2 08:37 class-wc-email-failed-order.php
+-rw-r--r--    1 coursest   coursest         5119 Feb  2 08:37 class-wc-email-new-order.php
+-rw-r--r--    1 coursest   coursest        24659 Feb  2 08:37 class-wc-email.php

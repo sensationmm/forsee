@@ -1,0 +1,10 @@
+drwxr-xr-x    5 coursest   coursest         4096 Nov 19  2015 .
+drwxr-xr-x   10 coursest   coursest         4096 Nov 19  2015 ..
+-rw-r--r--    1 coursest   coursest         1732 Nov 19  2015 apc.php
+drwxr-xr-x    2 coursest   coursest         4096 Nov 19  2015 css
+-rw-r--r--    1 coursest   coursest         3001 Nov 19  2015 files.php
+drwxr-xr-x    3 coursest   coursest         4096 Nov 19  2015 img
+-rw-r--r--    1 coursest   coursest            0 Nov 19  2015 index.html
+drwxr-xr-x    2 coursest   coursest         4096 Nov 19  2015 js
+-rw-r--r--    1 coursest   coursest          859 Nov 19  2015 minify.php
+-rw-r--r--    1 coursest   coursest         1774 Nov 19  2015 sns.php

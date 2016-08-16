@@ -1,0 +1,11 @@
+drwxr-xr-x    2 coursest   coursest         4096 Nov 19  2015 .
+drwxr-xr-x    9 coursest   coursest         4096 Nov 19  2015 ..
+-rw-r--r--    1 coursest   coursest          821 Nov 19  2015 cdn_s3_bucket_location.php
+-rw-r--r--    1 coursest   coursest         1804 Nov 19  2015 create_netdna_maxcdn_pull_zone.php
+-rw-r--r--    1 coursest   coursest         1112 Nov 19  2015 edge.php
+-rw-r--r--    1 coursest   coursest            0 Nov 19  2015 index.html
+-rw-r--r--    1 coursest   coursest         6321 Nov 19  2015 minify_recommendations.php
+-rw-r--r--    1 coursest   coursest          195 Nov 19  2015 purchase.php
+-rw-r--r--    1 coursest   coursest        13437 Nov 19  2015 self_test.php
+-rw-r--r--    1 coursest   coursest         5262 Nov 19  2015 support_us.php
+-rw-r--r--    1 coursest   coursest         1788 Nov 19  2015 upgrade.php

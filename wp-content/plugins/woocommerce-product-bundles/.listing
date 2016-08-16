@@ -1,0 +1,11 @@
+drwxr-xr-x    7 coursest   coursest         4096 Jan 28 12:52 .
+drwxr-xr-x   30 coursest   coursest         4096 Jun  1 17:31 ..
+-rw-r--r--    1 coursest   coursest          318 Jan 28 12:52 .gitignore
+drwxr-xr-x    4 coursest   coursest         4096 Jan 28 12:52 assets
+-rw-r--r--    1 coursest   coursest        32964 Jan 28 12:52 changelog.txt
+drwxr-xr-x    4 coursest   coursest         4096 Jan 28 12:52 includes
+drwxr-xr-x    2 coursest   coursest         4096 Jan 28 12:52 languages
+-rw-r--r--    1 coursest   coursest          951 Jan 28 12:52 readme.txt
+drwxr-xr-x    4 coursest   coursest         4096 Jan 28 12:52 templates
+drwxr-xr-x    2 coursest   coursest         4096 Jan 28 12:52 woo-includes
+-rw-r--r--    1 coursest   coursest         8390 Jan 28 12:52 woocommerce-product-bundles.php

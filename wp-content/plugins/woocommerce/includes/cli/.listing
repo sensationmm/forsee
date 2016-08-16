@@ -1,0 +1,12 @@
+drwxr-xr-x    2 coursest   coursest         4096 Feb  2 08:37 .
+drwxr-xr-x   14 coursest   coursest         4096 Feb  2 08:37 ..
+-rw-r--r--    1 coursest   coursest        11249 Feb  2 08:37 class-wc-cli-command.php
+-rw-r--r--    1 coursest   coursest        22459 Feb  2 08:37 class-wc-cli-coupon.php
+-rw-r--r--    1 coursest   coursest        19728 Feb  2 08:37 class-wc-cli-customer.php
+-rw-r--r--    1 coursest   coursest          979 Feb  2 08:37 class-wc-cli-exception.php
+-rw-r--r--    1 coursest   coursest        37944 Feb  2 08:37 class-wc-cli-order.php
+-rw-r--r--    1 coursest   coursest         3760 Feb  2 08:37 class-wc-cli-product-category.php
+-rw-r--r--    1 coursest   coursest        67055 Feb  2 08:37 class-wc-cli-product.php
+-rw-r--r--    1 coursest   coursest        10942 Feb  2 08:37 class-wc-cli-report.php
+-rw-r--r--    1 coursest   coursest        16047 Feb  2 08:37 class-wc-cli-tax.php
+-rw-r--r--    1 coursest   coursest          592 Feb  2 08:37 class-wc-cli-tool.php

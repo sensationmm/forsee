@@ -1,0 +1,15 @@
+drwxr-xr-x    2 coursest   coursest         4096 Jun  1 09:54 .
+drwxr-xr-x    6 coursest   coursest         4096 Jun  1 09:54 ..
+-rw-r--r--    1 coursest   coursest         6148 Jun  1 09:54 .DS_Store
+-rw-r--r--    1 coursest   coursest         5098 Jun  1 09:54 admin.js
+-rw-r--r--    1 coursest   coursest         2744 Jun  1 09:54 admin.min.js
+-rw-r--r--    1 coursest   coursest         2524 Jun  1 09:54 frontend.js
+-rw-r--r--    1 coursest   coursest          910 Jun  1 09:54 frontend.min.js
+-rw-r--r--    1 coursest   coursest         3095 Jun  1 09:54 jquery.cookie.js
+-rw-r--r--    1 coursest   coursest         1233 Jun  1 09:54 jquery.cookie.min.js
+-rw-r--r--    1 coursest   coursest       104612 Jun  1 09:54 jquery.flot.js
+-rw-r--r--    1 coursest   coursest        37554 Jun  1 09:54 jquery.flot.min.js
+-rw-r--r--    1 coursest   coursest         2458 Jun  1 09:54 jquery.flot.resize.js
+-rw-r--r--    1 coursest   coursest         1236 Jun  1 09:54 jquery.flot.resize.min.js
+-rw-r--r--    1 coursest   coursest         3094 Jun  1 09:54 tracking.js
+-rw-r--r--    1 coursest   coursest         1519 Jun  1 09:54 tracking.min.js

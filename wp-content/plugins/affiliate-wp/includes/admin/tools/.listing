@@ -1,0 +1,12 @@
+drwxr-xr-x    4 coursest   coursest         4096 Jun  1 09:54 .
+drwxr-xr-x   10 coursest   coursest         4096 Jun  1 09:54 ..
+-rw-r--r--    1 coursest   coursest         6660 Jun  1 09:54 class-migrate-affiliates-pro.php
+-rw-r--r--    1 coursest   coursest          735 Jun  1 09:54 class-migrate-base.php
+-rw-r--r--    1 coursest   coursest         2615 Jun  1 09:54 class-migrate-users.php
+-rw-r--r--    1 coursest   coursest         2569 Jun  1 09:54 class-migrate-wp-affiliate.php
+-rw-r--r--    1 coursest   coursest         1569 Jun  1 09:54 class-migrate.php
+-rw-r--r--    1 coursest   coursest         2343 Jun  1 09:54 class-recount.php
+drwxr-xr-x    2 coursest   coursest         4096 Jun  1 09:54 export
+drwxr-xr-x    2 coursest   coursest         4096 Jun  1 09:54 import
+-rw-r--r--    1 coursest   coursest         1117 Jun  1 09:54 migration.php
+-rw-r--r--    1 coursest   coursest        16039 Jun  1 09:54 tools.php

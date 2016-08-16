@@ -1,0 +1,16 @@
+drwxr-xr-x    2 coursest   coursest         4096 Nov 19  2015 .
+drwxr-xr-x    6 coursest   coursest         4096 Nov 19  2015 ..
+-rw-r--r--    1 coursest   coursest         4892 Nov 19  2015 ConfigurationDataSources.php
+-rw-r--r--    1 coursest   coursest         3668 Nov 19  2015 ConfigurationDiagnosticInfrastructureLogs.php
+-rw-r--r--    1 coursest   coursest         4115 Nov 19  2015 ConfigurationDirectories.php
+-rw-r--r--    1 coursest   coursest        12285 Nov 19  2015 ConfigurationInstance.php
+-rw-r--r--    1 coursest   coursest         3644 Nov 19  2015 ConfigurationLogs.php
+-rw-r--r--    1 coursest   coursest         3246 Nov 19  2015 ConfigurationObjectBaseAbstract.php
+-rw-r--r--    1 coursest   coursest         4173 Nov 19  2015 ConfigurationPerformanceCounters.php
+-rw-r--r--    1 coursest   coursest         4202 Nov 19  2015 ConfigurationWindowsEventLog.php
+-rw-r--r--    1 coursest   coursest         3141 Nov 19  2015 DirectoryConfigurationSubscription.php
+-rw-r--r--    1 coursest   coursest         2309 Nov 19  2015 Exception.php
+-rw-r--r--    1 coursest   coursest         2315 Nov 19  2015 LogLevel.php
+-rw-r--r--    1 coursest   coursest         9205 Nov 19  2015 Manager.php
+-rw-r--r--    1 coursest   coursest         3095 Nov 19  2015 PerformanceCounterSubscription.php
+-rw-r--r--    1 coursest   coursest            0 Nov 19  2015 index.html

@@ -1,0 +1,76 @@
+body#splash-landing {
+
+	h2 {
+		font-family: 'Montserrat', sans-serif;
+		font-size: 25px;
+		line-height: 1.4;
+		-webkit-text-size-adjust: 100%;
+		font-weight: normal;
+		text-transform: uppercase;
+	}
+
+	.splash {
+		background-position: top center;
+		background-size: cover;
+		background-color: $blue;
+		color: #ffffff;
+	}
+
+	.body {
+		padding: 2%;
+
+		article.col-splash {
+			@include span(7.5);
+
+			p.strap {
+				@include fontweight();
+				@include fontsize(22);
+				@include span(full);
+			}
+
+			.video-holder {
+				display: block;
+			}
+		}
+
+		section.col-form {
+			@include span(4 last);
+
+			.hs-form label {
+				color: #ffffff;
+			}
+
+			.col-1 {
+				display: none;
+			}
+			.col-2 {
+				width: 100%;
+				float: none;
+
+				h2 {
+					display: none;
+				}
+
+				form.register {
+					border: 0px;
+					padding: 0px;
+					margin: 0px 0px 8% 0px;
+
+					input.input-text {
+						border: 1px solid $blue;
+						padding: 1%;
+						@include fontsize(16);
+						color: $text;
+						border-radius: 5px;
+					}
+
+					p.form-row-first, p.form-row-last {
+						width: 100%;
+						float: none;
+					}
+				}
+			}
+		}
+	}
+
+}

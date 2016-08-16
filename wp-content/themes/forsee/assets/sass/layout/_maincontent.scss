@@ -1,0 +1,23 @@
+table {
+	width: 100%;
+	margin-bottom: 2%;
+
+	th {
+		color: #ffffff;
+		background: $blue;
+	}
+
+	tr {
+		td {
+			color: #ffffff;
+			padding: 10px;
+			background: $bg-blue-1;
+		}
+
+		&:nth-child(2n) {
+			td { 
+				background: $bg-blue-1;
+			}
+		}
+	}
+}
